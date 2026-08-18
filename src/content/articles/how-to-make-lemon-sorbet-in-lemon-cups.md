@@ -1,7 +1,7 @@
 ---
 title: "How to Make Lemon Sorbet in Lemon Cups"
 meta: "Learn to make lemon sorbet in lemon cups with a foolproof ratio and technique. A refreshing, elegant dessert that's naturally dairy-free and gluten-free."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/fb638d42-640a-4ea9-aded-fc47c94642cb/0_0.png"
 pubDate: "2026-07-07T14:38:01.000Z"
