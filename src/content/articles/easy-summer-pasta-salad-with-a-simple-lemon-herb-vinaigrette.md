@@ -1,7 +1,7 @@
 ---
 title: "Easy Summer Pasta Salad with a Simple Lemon-Herb Vinaigrette"
 meta: "Make an easy summer pasta salad that stays saucy and flavorful. I share my ratio for the perfect vinaigrette and the trick to keeping pasta from absorbing all t"
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/82eb14e6-6be7-4794-b3ad-b0f0eda81ce7/0_1.png"
 pubDate: "2026-07-23T22:08:53.000Z"
