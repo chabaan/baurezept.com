@@ -1,7 +1,7 @@
 ---
 title: "Cucumber Lime Mocktail Recipe – Crisp & Refreshing"
 meta: "Learn how to make a cucumber lime mocktail with a simple technique for the best flavor. This non-alcoholic drink is crisp, refreshing, and easy to make."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/3f02b451-9bff-463e-b3ef-664abee768e8/0_0.png"
 pubDate: "2026-07-29T20:03:24.000Z"
