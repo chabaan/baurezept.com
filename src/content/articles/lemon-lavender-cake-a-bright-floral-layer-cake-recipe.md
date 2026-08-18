@@ -1,7 +1,7 @@
 ---
 title: "Lemon Lavender Cake: A Bright, Floral Layer Cake Recipe"
 meta: "Learn how to make Lemon Lavender Cake with a tender crumb and floral buttercream. This layer cake recipe includes precise technique, ratios, and tips for perfec"
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/f0aae9b2-30c5-4927-80c2-c8db3267526d/0_0.png"
 pubDate: "2026-07-14T07:10:19.000Z"
