@@ -1,7 +1,7 @@
 ---
 title: "4-Ingredient Coffee Cake: Simple, Buttery, and Perfect"
 meta: "Learn how to make a tender, crumb-topped 4-ingredient coffee cake with a secret ratio for a perfect streusel. Easy, no-fuss breakfast recipe."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/ac388783-83b6-4aa3-b734-a289389b20a9/0_0.png"
 pubDate: "2026-07-06T21:44:45.000Z"
