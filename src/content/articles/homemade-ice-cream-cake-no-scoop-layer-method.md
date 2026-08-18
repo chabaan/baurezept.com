@@ -1,7 +1,7 @@
 ---
 title: "Homemade Ice Cream Cake: No-Scoop Layer Method"
 meta: "Learn to build a homemade ice cream cake with a crisp cookie base and no-scoop layers. My simple ratio keeps every slice neat and creamy."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/6ec6638e-0a69-44a8-824d-42a1ace61ac8/0_1.png"
 pubDate: "2026-06-24T20:47:47.000Z"
