@@ -1,7 +1,7 @@
 ---
 title: "DIY Sundae Bar Station: Build-Your-Own Ice Cream Party"
 meta: "Set up a DIY sundae bar station with step-by-step tips, sauce ratios, and topping ideas. Perfect for parties or weeknight treats."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/f68ed0ce-a2f8-44a7-93ed-16a5cc17b597/0_1.png"
 pubDate: "2026-07-23T09:59:03.000Z"
