@@ -1,7 +1,7 @@
 ---
 title: "Peach Cobbler Cups: Easy Single-Serve Dessert"
 meta: "Learn how to make Peach Cobbler Cups with a buttery biscuit topping and juicy peach filling. Perfect single-serve dessert with tips for golden results."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/7df73136-0260-4bbf-97aa-840e58525d4f/0_0.png"
 pubDate: "2026-07-18T12:29:31.000Z"
