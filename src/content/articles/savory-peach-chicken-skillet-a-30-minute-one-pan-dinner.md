@@ -1,7 +1,7 @@
 ---
 title: "Savory Peach Chicken Skillet: A 30-Minute One-Pan Dinner"
 meta: "Make savory peach chicken skillet in 30 minutes. A one-pan weeknight dinner with juicy chicken, ripe peaches, and a tangy balsamic glaze. Easy technique."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/5f853dc2-b08c-4d15-aed3-0b12b80d7eec/0_0.png"
 pubDate: "2026-07-05T19:48:53.000Z"
