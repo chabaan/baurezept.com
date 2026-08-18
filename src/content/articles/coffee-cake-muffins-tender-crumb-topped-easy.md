@@ -1,7 +1,7 @@
 ---
 title: "Coffee Cake Muffins: Tender, Crumb-Topped & Easy"
 meta: "Make coffee cake muffins with a tender crumb and crunchy streusel. This easy recipe uses a tangy buttermilk trick for the best texture."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/f0fc7828-5cdb-4ef9-a814-559035a79984/0_0.png"
 pubDate: "2026-07-28T22:47:17.000Z"
