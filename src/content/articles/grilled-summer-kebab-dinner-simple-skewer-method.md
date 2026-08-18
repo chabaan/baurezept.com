@@ -3,11 +3,14 @@ title: "Grilled Summer Kebab Dinner: Simple Skewer Method"
 meta: "Learn my technique for a Grilled Summer Kebab Dinner with even cooking, no sticking, and vibrant flavor. Perfect for weeknights."
 category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
-image: "https://cdn.midjourney.com/ace8ff53-e3b2-4ecc-a03e-b6d5d6be4f69/0_0.png"
-pubDate: "2026-07-29T22:22:42.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/grilled-summer-kebab-dinner-simple-skewe.webp"
+pubDate: "2026-07-30T06:22:42Z"
+recipe: "{\"title\": \"Grilled Summer Chicken and Vegetable Kebabs\", \"ingredients\": [\"1.5 lbs boneless skinless chicken thighs (cut into 1.5-inch cubes)\", \"1 large red bell pepper (cut into 1.5-inch pieces)\", \"1 large yellow squash (cut into 1/2-inch rounds)\", \"1 large zucchini (cut into 1/2-inch rounds)\", \"1 large red onion (cut into 1.5-inch pieces)\", \"8 ounces cremini mushrooms (stems trimmed)\", \"1/4 cup olive oil\", \"3 tablespoons fresh lemon juice\", \"2 cloves garlic (minced)\", \"1 teaspoon dried oregano\", \"1/2 teaspoon salt\", \"1/4 teaspoon black pepper\", \"Metal or wooden skewers (if wooden, soak in water 30 minutes)\"], \"instructions\": [\"In a small bowl, whisk together olive oil, lemon juice, minced garlic, oregano, salt, and pepper to make the marinade.\", \"Place chicken cubes in a large resealable bag or bowl. Pour half the marinade over the chicken, seal, and toss to coat. Refrigerate for at least 15 minutes (or up to 2 hours).\", \"While chicken marinates, prepare vegetables. Keep pieces similar in size for even cooking. Toss vegetables with remaining marinade in a separate bowl.\", \"Preheat your grill to medium-high heat (about 400-450°F). Clean and oil the grates well to prevent sticking.\", \"Thread skewers, alternating chicken and vegetables. Leave a small gap between pieces for heat circulation. Do not overcrowd.\", \"Place skewers on the grill. Cook for 10-14 minutes total, turning every 3-4 minutes. Look for nice char marks and vegetables that are tender-crisp.\", \"Check chicken internal temperature: 165°F on an instant-read thermometer. Remove skewers to a platter, tent loosely with foil, and rest 5 minutes before serving.\"], \"equipment\": [\"metal or soaked wooden skewers\", \"grill (gas or charcoal)\", \"tongs\", \"mixing bowl\", \"cutting board\", \"knife\", \"instant-read thermometer\"], \"servings\": \"4\", \"prep_time\": \"20\", \"cook_time\": \"12\", \"total_time\": \"32\", \"calories\": \"350\"}"
 ---
 
 <p>There's something about food on a stick that makes a weeknight dinner feel like a small celebration. The sizzle when the skewers hit the hot grates, the smell of charring peppers and lemon, the way the chicken browns in those perfect little patches. A grilled summer kebab dinner doesn't have to be complicated or take all afternoon. It just needs a few smart moves to get everything cooked evenly, juicy, and full of flavor.</p>
+<figure><img src="https://cdn.midjourney.com/ace8ff53-e3b2-4ecc-a03e-b6d5d6be4f69/0_3.png" alt="Close-up of skewers being turned on a hot grill with tongs" /></figure>
+
 
 <h2>Why This Method Works</h2>
 <p>Most kebab problems come down to two things: uneven cooking and sticking. I keep the ratio simple. Chicken pieces about 1.5 inches, vegetables cut to roughly the same size. That way everything finishes at the same time. And I never overcrowd the skewers. A little space between each piece lets the heat circulate and gives you those caramelized edges instead of steamed, pale food.</p>
@@ -39,3 +42,33 @@ pubDate: "2026-07-29T22:22:42.000Z"
 
 <h2>Final Takeaway</h2>
 <p>A grilled summer kebab dinner is one of those meals that looks impressive but is actually simple to pull off. The key is in the details: even-sized pieces, a balanced marinade, oiled grates, and a thermometer. Get those right, and you'll have a weeknight dinner that feels like a backyard party. No fuss, just good food on a stick.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>How do I keep chicken kebabs from drying out on the grill?</h3>
+<p>Use chicken thighs instead of breasts. They have more fat and stay juicier. Also, marinate for at least 15 minutes and don't overcook—pull them off the grill at 165°F internal temperature.</p>
+<h3>Can I make these kebabs ahead of time?</h3>
+<p>Yes. Assemble the skewers up to 4 hours ahead and keep them covered in the fridge. The marinade will continue to flavor the ingredients. Let them sit at room temperature for 15 minutes before grilling.</p>
+<h3>What vegetables work best for grilling on skewers?</h3>
+<p>Firm vegetables like bell peppers, onions, zucchini, squash, and mushrooms hold up well. Avoid soft vegetables like tomatoes or eggplant unless you cut them into thick chunks and grill quickly.</p>
+<h3>How do I prevent vegetables from sticking to the grill?</h3>
+<p>Oil the grill grates well before heating. Use a paper towel dipped in oil and held with tongs to wipe the grates. Also, oil the vegetables themselves. Don't move the skewers too early—let them sear and release naturally.</p>
+
+
+<!--WPRM Recipe 1444-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Grilled Summer Chicken and Vegetable Kebabs</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/grilled-summer-kebab-dinner-simple-skewe-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		Juicy chicken and colorful vegetables grilled on skewers with a simple lemon-herb marinade. My technique ensures even cooking and no sticking.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>metal or soaked wooden skewers</li><li>grill (gas or charcoal)</li><li>tongs</li><li>mixing bowl</li><li>cutting board</li><li>knife</li><li>instant-read thermometer</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>1.5 lbs boneless skinless chicken thighs (cut into 1.5-inch cubes)</li><li>1 large red bell pepper (cut into 1.5-inch pieces)</li><li>1 large yellow squash (cut into 1/2-inch rounds)</li><li>1 large zucchini (cut into 1/2-inch rounds)</li><li>1 large red onion (cut into 1.5-inch pieces)</li><li>8 ounces cremini mushrooms (stems trimmed)</li><li>1/4 cup olive oil</li><li>3 tablespoons fresh lemon juice</li><li>2 cloves garlic (minced)</li><li>1 teaspoon dried oregano</li><li>1/2 teaspoon salt</li><li>1/4 teaspoon black pepper</li><li>Metal or wooden skewers (if wooden, soak in water 30 minutes)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>In a small bowl, whisk together olive oil, lemon juice, minced garlic, oregano, salt, and pepper to make the marinade.</li><li>Place chicken cubes in a large resealable bag or bowl. Pour half the marinade over the chicken, seal, and toss to coat. Refrigerate for at least 15 minutes (or up to 2 hours).</li><li>While chicken marinates, prepare vegetables. Keep pieces similar in size for even cooking. Toss vegetables with remaining marinade in a separate bowl.</li><li>Preheat your grill to medium-high heat (about 400-450°F). Clean and oil the grates well to prevent sticking.</li><li>Thread skewers, alternating chicken and vegetables. Leave a small gap between pieces for heat circulation. Do not overcrowd.</li><li>Place skewers on the grill. Cook for 10-14 minutes total, turning every 3-4 minutes. Look for nice char marks and vegetables that are tender-crisp.</li><li>Check chicken internal temperature: 165°F on an instant-read thermometer. Remove skewers to a platter, tent loosely with foil, and rest 5 minutes before serving.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>For even cooking, keep chicken and vegetable pieces about the same size. If using wooden skewers, soak them in water for at least 30 minutes to prevent burning. Leftover kebabs keep in the fridge for up to 3 days. Reheat gently in a skillet or oven. To make it dairy-free, the recipe is already dairy-free. For a gluten-free meal, serve with rice or quinoa. Always use separate cutting boards for raw chicken and vegetables to avoid cross-contamination. Wash hands and surfaces after handling raw poultry.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Main Course</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
