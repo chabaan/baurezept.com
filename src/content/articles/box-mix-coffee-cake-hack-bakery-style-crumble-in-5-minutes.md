@@ -1,7 +1,7 @@
 ---
 title: "Box-Mix Coffee Cake Hack: Bakery-Style Crumble in 5 Minutes"
 meta: "Learn the box-mix coffee cake hack with a simple crumble ratio that gives you bakery-style texture. Easy, fast, and foolproof every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/e76aa70f-d18d-4c15-8638-457d06da14fd/0_1.png"
 pubDate: "2026-07-15T09:01:07.000Z"
