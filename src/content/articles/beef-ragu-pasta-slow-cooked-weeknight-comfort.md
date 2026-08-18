@@ -1,7 +1,7 @@
 ---
 title: "Beef Ragu Pasta: Slow-Cooked Weeknight Comfort"
 meta: "Learn how to make a rich, slow-simmered beef ragu pasta with a simple technique that turns affordable chuck into a luxurious, fork-tender sauce."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/306e0a92-8272-4ab9-9c80-adb2c86e9e42/0_0.png"
 pubDate: "2026-07-04T12:14:24.000Z"
