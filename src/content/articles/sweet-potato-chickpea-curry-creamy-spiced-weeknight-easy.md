@@ -1,7 +1,7 @@
 ---
 title: "Sweet Potato Chickpea Curry: Creamy, Spiced & Weeknight-Easy"
 meta: "This sweet potato chickpea curry is creamy, spiced, and ready in under an hour. Learn my technique for perfectly tender sweet potatoes every time."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/981d8e0f-9496-4ce5-a82b-ee1c18f87c30/0_1.png"
 pubDate: "2026-07-10T13:01:22.000Z"
