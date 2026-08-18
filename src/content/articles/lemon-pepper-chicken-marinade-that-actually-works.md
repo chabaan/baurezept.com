@@ -1,7 +1,7 @@
 ---
 title: "Lemon Pepper Chicken Marinade That Actually Works"
 meta: "Learn how to make a balanced lemon pepper chicken marinade that tenderizes without turning meat mushy, plus timing and technique tips."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/77adca2b-74fa-43a8-bfd9-bd85a4b38796/0_1.png"
 pubDate: "2026-06-28T19:48:03.000Z"
