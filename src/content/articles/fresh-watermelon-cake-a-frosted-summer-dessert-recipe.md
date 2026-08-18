@@ -1,7 +1,7 @@
 ---
 title: "Fresh Watermelon Cake: A Frosted Summer Dessert Recipe"
 meta: "Learn how to make a stunning fresh watermelon cake with a light cream cheese frosting. A juicy, refreshing summer dessert that's easier than it looks."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/e3fd4cee-31a1-4f22-9c45-7ca7b860cc64/0_1.png"
 pubDate: "2026-06-18T09:51:24.000Z"
