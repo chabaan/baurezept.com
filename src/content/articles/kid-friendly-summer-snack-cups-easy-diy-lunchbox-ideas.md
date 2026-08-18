@@ -1,7 +1,7 @@
 ---
 title: "Kid-Friendly Summer Snack Cups: Easy DIY Lunchbox Ideas"
 meta: "Make kid-friendly summer snack cups with a simple yogurt-to-crunch ratio. These DIY lunchbox ideas keep kids happy and full without the mess."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/2a365d41-3822-4880-8ccf-6576714d7637/0_0.png"
 pubDate: "2026-07-07T13:10:48.000Z"
