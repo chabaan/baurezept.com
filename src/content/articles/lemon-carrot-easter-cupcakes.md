@@ -1,7 +1,7 @@
 ---
 title: "Lemon Carrot Easter Cupcakes"
 meta: "Lemon Carrot Easter Cupcakes: a zesty twist on classic carrot cake. Learn the key ratio for a moist crumb and bright citrus flavor."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/efa10f37-3283-499c-ba09-5277193a201e/0_1.png"
 pubDate: "2026-07-11T09:10:13.000Z"
