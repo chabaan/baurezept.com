@@ -1,7 +1,7 @@
 ---
 title: "Sparkling Berry Lemonade: The Perfect Fizz Ratio"
 meta: "Learn the secret ratio for sparkling berry lemonade that stays fizzy and flavorful. Easy, non-alcoholic, and perfect for summer entertaining."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/b814d382-8eb1-4d1f-bdc6-a86b3547ba4f/0_1.png"
 pubDate: "2026-07-11T13:58:36.000Z"
