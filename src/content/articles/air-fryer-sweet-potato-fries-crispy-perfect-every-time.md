@@ -1,7 +1,7 @@
 ---
 title: "Air Fryer Sweet Potato Fries: Crispy & Perfect Every Time"
 meta: "Get crispy air fryer sweet potato fries with a simple technique. Learn the exact ratio for cornstarch coating and the best temperature for perfect texture."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/23625b31-b01b-426b-8ab7-885ac69acd85/0_1.png"
 pubDate: "2026-07-09T12:07:14.000Z"
