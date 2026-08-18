@@ -1,7 +1,7 @@
 ---
 title: "Fresh Peach Caprese Salad: Sweet Summer Twist on a Classic"
 meta: "Make a Fresh Peach Caprese Salad with ripe peaches, mozzarella, basil, and a tangy balsamic glaze. Easy, no-cook recipe for summer."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/d6c98803-e27b-41a5-ac45-1188ae5704b1/0_0.png"
 pubDate: "2026-08-07T13:15:55.000Z"
