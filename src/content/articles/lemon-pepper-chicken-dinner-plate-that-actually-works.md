@@ -3,11 +3,14 @@ title: "Lemon Pepper Chicken Dinner Plate That Actually Works"
 meta: "Learn how to build a lemon pepper chicken dinner plate with juicy pan-seared chicken, bright lemon pepper flavor, and easy sides. Real technique from a home coo"
 category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
-image: "https://cdn.midjourney.com/4e46b09b-412a-4d07-a2d9-7893bf58b8b4/0_0.png"
-pubDate: "2026-07-24T19:46:08.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/lemon-pepper-chicken-dinner-plate-that-a.webp"
+pubDate: "2026-07-25T03:46:08Z"
+recipe: "{\"title\": \"Lemon Pepper Chicken Dinner Plate\", \"ingredients\": [\"4 boneless (skinless chicken breasts (about 6 oz each))\", \"2 tablespoons olive oil (divided)\", \"1 tablespoon lemon pepper seasoning (see note)\", \"1 teaspoon kosher salt\", \"1/2 teaspoon garlic powder\", \"1/4 teaspoon black pepper\", \"1 lemon (zested and juiced (about 2 tablespoons juice))\", \"1 1/2 pounds baby potatoes (halved)\", \"2 tablespoons unsalted butter\", \"2 cloves garlic (minced)\", \"Fresh parsley (chopped (for garnish))\", \"4 cups mixed greens\", \"1/4 cup simple vinaigrette (3 parts olive oil, 1 part lemon juice, salt, pepper)\"], \"instructions\": [\"Preheat your oven to 425°F. Toss the halved baby potatoes with 1 tablespoon olive oil, a pinch of salt, and a few grinds of black pepper. Spread them in a single layer on a sheet pan. Roast for 25–30 minutes, flipping halfway, until golden and tender when pierced with a fork.\", \"While the potatoes roast, prepare the chicken. Pat the chicken breasts dry with paper towels — this is key for a good sear. In a small bowl, combine the lemon pepper seasoning, kosher salt, garlic powder, and black pepper. Sprinkle this mixture evenly over both sides of each breast.\", \"Heat the remaining 1 tablespoon olive oil in a 12-inch cast-iron skillet over medium-high heat until it shimmers. Carefully place the chicken breasts in the skillet, presentation side down. Cook without moving for 4–5 minutes, until a deep golden crust forms. Flip and cook for another 3–4 minutes.\", \"Reduce the heat to medium. Add the butter, minced garlic, and lemon zest to the skillet. Tilt the pan and spoon the melting butter over the chicken for about 1 minute. The garlic should become fragrant but not brown.\", \"Squeeze the lemon juice over the chicken. Transfer the skillet to the oven (if your skillet is oven-safe; otherwise, transfer chicken to a baking dish). Roast for 5–7 minutes, until the internal temperature at the thickest part reads 160°F. The chicken will carry over to 165°F as it rests.\", \"Remove the skillet from the oven. Transfer chicken to a cutting board and let rest for 5 minutes. Do not skip this — it keeps the juices inside.\", \"While the chicken rests, toss the mixed greens with the vinaigrette. Arrange the salad, roasted potatoes, and chicken on plates. Spoon any pan juices over the chicken and garnish with parsley.\"], \"equipment\": [\"12-inch cast-iron or heavy skillet\", \"sheet pan\", \"chef's knife\", \"cutting board\", \"instant-read thermometer\", \"small bowl\", \"tongs\", \"vegetable peeler\"], \"servings\": \"4\", \"prep_time\": \"10\", \"cook_time\": \"25\", \"total_time\": \"35\", \"calories\": \"480\"}"
 ---
 
 <p>I have a rule for weeknight dinners: the plate should look like a complete meal without me running around like I'm short-order cooking for myself. This lemon pepper chicken dinner plate does exactly that. The chicken gets a crackling crust of lemon and pepper, the potatoes turn crisp-edged and fluffy inside, and a simple salad cuts through the richness. It's a plate that feels put-together but takes less than 40 minutes.</p>
+<figure><img src="https://cdn.midjourney.com/4e46b09b-412a-4d07-a2d9-7893bf58b8b4/0_2.png" alt="Pan-searing lemon pepper chicken breasts in a cast-iron skillet with butter and garlic" /></figure>
+
 
 <h2>The Right Way to Season Lemon Pepper Chicken</h2>
 <p>Most lemon pepper seasoning blends are mostly pepper and salt, with a whisper of lemon. That's fine for a quick shake, but for a dinner plate that stands on its own, I build the flavor in layers. I start with a store-bought lemon pepper seasoning as the base—about 1 tablespoon for four breasts—but I add extra lemon zest and a squeeze of juice at the end. The zest goes into the butter basting stage, where the heat releases its oils. The juice hits the pan after the sear, so it doesn't burn.</p>
@@ -33,3 +36,33 @@ pubDate: "2026-07-24T19:46:08.000Z"
 
 <h2>Takeaway</h2>
 <p>The key to this lemon pepper chicken dinner plate is layering the lemon flavor—seasoning, zest, and juice at different stages—and nailing the sear. Pair it with potatoes that are actually crispy and a salad that cuts through the richness, and you've got a complete meal that feels like more than the sum of its parts. Try it once, and you'll have it memorized.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Can I use chicken thighs instead of breasts?</h3>
+<p>Yes, boneless skinless thighs work well. Adjust the cooking time: sear for 4 minutes per side, then roast for 8–10 minutes until internal temperature reaches 175°F for the best texture.</p>
+<h3>What if I don't have lemon pepper seasoning?</h3>
+<p>Make your own: mix 1 tablespoon lemon zest, 1 teaspoon black pepper, 1/2 teaspoon salt, and 1/2 teaspoon garlic powder. Use immediately. Store-bought blends often contain sugar, which can burn; homemade avoids that.</p>
+<h3>How do I keep the chicken from drying out?</h3>
+<p>Two things: don't overcook (pull at 160°F and let rest) and use the butter-basting step. The fat and acid keep the meat moist. Also, pounding the chicken to even thickness helps it cook evenly.</p>
+<h3>Can I make this all in one pan?</h3>
+<p>Yes, if you have a large enough skillet. Roast the potatoes first, remove them, then cook the chicken. Return potatoes to the skillet to warm through before serving. Not quite one-pan, but close.</p>
+
+
+<!--WPRM Recipe 1364-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Lemon Pepper Chicken Dinner Plate</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/lemon-pepper-chicken-dinner-plate-that-a-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		Juicy pan-seared chicken breasts with a bright lemon pepper crust, served with roasted potatoes and a simple green salad. A complete dinner that comes together in under 40 minutes.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>12-inch cast-iron or heavy skillet</li><li>sheet pan</li><li>chef's knife</li><li>cutting board</li><li>instant-read thermometer</li><li>small bowl</li><li>tongs</li><li>vegetable peeler</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>4 boneless (skinless chicken breasts (about 6 oz each))</li><li>2 tablespoons olive oil (divided)</li><li>1 tablespoon lemon pepper seasoning (see note)</li><li>1 teaspoon kosher salt</li><li>1/2 teaspoon garlic powder</li><li>1/4 teaspoon black pepper</li><li>1 lemon (zested and juiced (about 2 tablespoons juice))</li><li>1 1/2 pounds baby potatoes (halved)</li><li>2 tablespoons unsalted butter</li><li>2 cloves garlic (minced)</li><li>Fresh parsley (chopped (for garnish))</li><li>4 cups mixed greens</li><li>1/4 cup simple vinaigrette (3 parts olive oil, 1 part lemon juice, salt, pepper)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Preheat your oven to 425°F. Toss the halved baby potatoes with 1 tablespoon olive oil, a pinch of salt, and a few grinds of black pepper. Spread them in a single layer on a sheet pan. Roast for 25–30 minutes, flipping halfway, until golden and tender when pierced with a fork.</li><li>While the potatoes roast, prepare the chicken. Pat the chicken breasts dry with paper towels — this is key for a good sear. In a small bowl, combine the lemon pepper seasoning, kosher salt, garlic powder, and black pepper. Sprinkle this mixture evenly over both sides of each breast.</li><li>Heat the remaining 1 tablespoon olive oil in a 12-inch cast-iron skillet over medium-high heat until it shimmers. Carefully place the chicken breasts in the skillet, presentation side down. Cook without moving for 4–5 minutes, until a deep golden crust forms. Flip and cook for another 3–4 minutes.</li><li>Reduce the heat to medium. Add the butter, minced garlic, and lemon zest to the skillet. Tilt the pan and spoon the melting butter over the chicken for about 1 minute. The garlic should become fragrant but not brown.</li><li>Squeeze the lemon juice over the chicken. Transfer the skillet to the oven (if your skillet is oven-safe; otherwise, transfer chicken to a baking dish). Roast for 5–7 minutes, until the internal temperature at the thickest part reads 160°F. The chicken will carry over to 165°F as it rests.</li><li>Remove the skillet from the oven. Transfer chicken to a cutting board and let rest for 5 minutes. Do not skip this — it keeps the juices inside.</li><li>While the chicken rests, toss the mixed greens with the vinaigrette. Arrange the salad, roasted potatoes, and chicken on plates. Spoon any pan juices over the chicken and garnish with parsley.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>Storage: Refrigerate leftovers in a sealed container for up to 3 days. Reheat gently in a skillet over low heat with a splash of water to keep the chicken moist. For a dairy-free version, substitute the butter with an equal amount of olive oil or ghee. Lemon pepper seasoning can vary in salt content; if yours is salt-heavy, reduce the added salt to 1/2 teaspoon. Always wash hands and surfaces after handling raw chicken. For specific dietary needs, consult a qualified professional.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Main Course</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
