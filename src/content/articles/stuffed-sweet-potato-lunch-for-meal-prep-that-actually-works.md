@@ -1,7 +1,7 @@
 ---
 title: "Stuffed Sweet Potato Lunch for Meal Prep That Actually Works"
 meta: "Learn the one ratio that makes stuffed sweet potato lunch filling and fast. A 400°F method with a creamy black bean filling that stays fluffy."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/e08b9013-c9bb-4580-ab8b-04e99406b176/0_1.png"
 pubDate: "2026-06-22T07:53:30.000Z"
