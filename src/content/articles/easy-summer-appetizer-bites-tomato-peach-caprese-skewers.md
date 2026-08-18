@@ -1,7 +1,7 @@
 ---
 title: "Easy Summer Appetizer Bites: Tomato & Peach Caprese Skewers"
 meta: "Easy summer appetizer bites with ripe peaches, cherry tomatoes, and fresh mozzarella. A no-cook recipe with a honey-balsamic drizzle that disappears fast."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/e7e6c369-9564-4ee3-9920-17abf1156866/0_1.png"
 pubDate: "2026-08-03T09:12:56.000Z"
