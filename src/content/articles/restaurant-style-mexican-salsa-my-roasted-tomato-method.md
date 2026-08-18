@@ -1,7 +1,7 @@
 ---
 title: "Restaurant-Style Mexican Salsa: My Roasted Tomato Method"
 meta: "Learn my restaurant-style Mexican salsa recipe with a roasted tomato technique for deep flavor. Get the exact ratio and steps for a smooth, smoky salsa at home."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/bb8c598c-a542-43af-94da-c9a8320081e6/0_1.png"
 pubDate: "2026-08-15T22:23:14.000Z"
