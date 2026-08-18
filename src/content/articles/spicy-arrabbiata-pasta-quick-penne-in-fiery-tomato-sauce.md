@@ -1,7 +1,7 @@
 ---
 title: "Spicy Arrabbiata Pasta: Quick Penne in Fiery Tomato Sauce"
 meta: "Learn how to make spicy arrabbiata pasta with a bold garlic-chili kick. This penne arrabbiata recipe delivers restaurant-quality heat in 20 minutes."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/62f94502-25d6-44eb-8ef2-9e815fa78929/0_0.png"
 pubDate: "2026-08-10T20:06:15.000Z"
