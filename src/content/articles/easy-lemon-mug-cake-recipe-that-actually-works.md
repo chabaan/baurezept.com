@@ -1,7 +1,7 @@
 ---
 title: "Easy Lemon Mug Cake Recipe That Actually Works"
 meta: "Learn how to make an easy lemon mug cake with a tender crumb and bright flavor. My technique ensures a moist cake every time in under 5 minutes."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/eb5c9393-8401-440e-a359-9aaae22b73d4/0_0.png"
 pubDate: "2026-07-28T13:31:50.000Z"
