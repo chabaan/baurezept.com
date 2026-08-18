@@ -1,7 +1,7 @@
 ---
 title: "Small-Batch 8x8 Coffee Cake: Perfectly Moist, Single Pan"
 meta: "Make a small-batch 8x8 coffee cake with a tender crumb and cinnamon streusel. Perfect for two, with precise ratios and foolproof technique."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/7adb6c8c-b609-475f-8c83-57bfc8daa412/0_0.png"
 pubDate: "2026-07-29T09:42:48.000Z"
