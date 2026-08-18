@@ -1,7 +1,7 @@
 ---
 title: "Easy Lemon Bars with a Perfectly Tangy Filling"
 meta: "Make easy lemon bars with a crisp shortbread crust and bright, tangy filling. This guide shares the exact ratio for a silky, sliceable texture every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/094484b4-9ea1-43ff-8cc3-9ab3dc7a0dd5/0_1.png"
 pubDate: "2026-08-13T14:23:49.000Z"
