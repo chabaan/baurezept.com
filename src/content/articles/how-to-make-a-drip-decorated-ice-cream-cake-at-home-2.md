@@ -1,7 +1,7 @@
 ---
 title: "How to Make a Drip-Decorated Ice Cream Cake at Home"
 meta: "Learn the technique for a perfect drip-decorated ice cream cake with a stable ganache drip, no melting. Expert tips for a showstopper dessert."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/55986449-ed46-49d7-9782-d1d16dc79e2c/0_0.png"
 pubDate: "2026-06-25T14:11:56.000Z"
