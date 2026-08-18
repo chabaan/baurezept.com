@@ -1,7 +1,7 @@
 ---
 title: "Watermelon Feta Salad: Perfect Ratio & Salting Tip"
 meta: "Learn the simple technique for a perfect watermelon feta salad, including the exact ratio and a smart salting tip to avoid a watery mess."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/f9332722-b163-4b21-bdb0-420ed6d60869/0_0.png"
 pubDate: "2026-08-08T14:32:05.000Z"
