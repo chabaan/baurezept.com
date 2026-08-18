@@ -1,7 +1,7 @@
 ---
 title: "Watermelon Agua Fresca: The Secret to a Perfectly Balanced Batch"
 meta: "Learn the precise watermelon-to-water ratio and technique for a crisp, not watery, Watermelon Agua Fresca. A refreshing, easy recipe."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/aa6f871f-2aa5-4a28-87bc-fcba5cc186b9/0_0.png"
 pubDate: "2026-07-26T07:11:33.000Z"
