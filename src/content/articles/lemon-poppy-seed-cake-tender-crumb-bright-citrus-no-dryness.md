@@ -3,11 +3,14 @@ title: "Lemon Poppy Seed Cake: Tender Crumb, Bright Citrus, No Dryness"
 meta: "Learn how to make a moist Lemon Poppy Seed Cake with a tender crumb and bright citrus flavor. Expert tips for the perfect balance of tangy and sweet."
 category: "Desserts & Drinks"
 author: "Ashley Brooks"
-image: "https://cdn.midjourney.com/15b296b5-0068-46a1-91db-84d53bda45a0/0_1.png"
-pubDate: "2026-07-16T20:50:13.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/lemon-poppy-seed-cake-tender-crumb-brigh-1.webp"
+pubDate: "2026-07-17T04:50:13Z"
+recipe: "{\"title\": \"Lemon Poppy Seed Cake\", \"ingredients\": [\"1 ½ cups 190g all-purpose flour\", \"1 teaspoon baking powder\", \"¼ teaspoon baking soda\", \"¼ teaspoon salt\", \"1 tablespoon poppy seeds\", \"½ cup 113g unsalted butter, softened\", \"1 cup 200g granulated sugar\", \"2 large eggs (room temperature)\", \"1 teaspoon vanilla extract\", \"1 tablespoon lemon zest (from about 2 lemons)\", \"¼ cup 60ml fresh lemon juice\", \"½ cup 120ml buttermilk, room temperature\", \"For the glaze:\", \"1 cup 120g powdered sugar\", \"2 tablespoons fresh lemon juice\", \"1 teaspoon lemon zest (optional)\"], \"instructions\": [\"Preheat your oven to 350°F (175°C). Grease a 9x5 inch loaf pan and line with parchment paper, leaving overhang on the long sides.\", \"In a medium bowl, whisk together the flour, baking powder, baking soda, salt, and poppy seeds. Set aside.\", \"In a large bowl, beat the softened butter and granulated sugar together with an electric mixer on medium speed until light and fluffy, about 3 minutes. Scrape down the bowl.\", \"Add the eggs one at a time, beating well after each addition. Mix in the vanilla extract, lemon zest, and lemon juice. The mixture may look slightly curdled—that's fine.\", \"With the mixer on low speed, add the flour mixture in three additions, alternating with the buttermilk, starting and ending with the flour. Mix just until combined. Do not overmix.\", \"Pour the batter into the prepared pan and spread it evenly. Bake for 40–45 minutes, until a toothpick inserted into the center comes out clean or with a few moist crumbs. The top should be golden brown.\", \"Let the cake cool in the pan for 10 minutes, then lift it out using the parchment overhang and transfer to a cooling rack. Cool completely before glazing.\", \"For the glaze: whisk together the powdered sugar and lemon juice until smooth. Add more juice if needed for a thin drizzle. Stir in the lemon zest if using. Drizzle over the cooled cake.\"], \"equipment\": [\"9x5 inch loaf pan\", \"mixing bowls\", \"electric mixer\", \"whisk\", \"spatula\", \"cooling rack\", \"zester\", \"juicer\"], \"servings\": \"10\", \"prep_time\": \"20\", \"cook_time\": \"45\", \"total_time\": \"65\", \"calories\": \"350\"}"
 ---
 
 <p>There is something about the scent of fresh lemon zest hitting warm butter that instantly feels like sunshine on a gray day. The sharp, clean aroma fills the kitchen, promising a cake that is bright without being sour, tender without being fragile. And when tiny poppy seeds are scattered through the crumb, each slice offers a gentle pop of texture that makes every bite just a little more interesting.</p>
+<figure><img src="https://cdn.midjourney.com/15b296b5-0068-46a1-91db-84d53bda45a0/0_2.png" alt="Mixing lemon cake batter in a glass bowl with a spatula, showing the texture before baking" /></figure>
+
 
 <p>This lemon poppy seed cake is one of those recipes I come back to again and again. It is simple enough for a weekday afternoon treat, but pretty enough to sit on a dessert table. The trick is in the technique—how you handle the butter, how you incorporate the citrus, and how you keep the crumb from drying out. Let me walk you through it.</p>
 
@@ -67,3 +70,33 @@ pubDate: "2026-07-16T20:50:13.000Z"
 <h2>Takeaway</h2>
 
 <p>This lemon poppy seed cake is a study in balance. The buttermilk keeps the crumb tender, the zest delivers pure lemon flavor, and the poppy seeds add a gentle crunch. The technique is straightforward, but each step matters. Pay attention to the creaming, the alternating additions, and the doneness test, and you will get a cake that is moist, bright, and exactly what you were hoping for.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Why did my lemon poppy seed cake turn out dry?</h3>
+<p>Dry cake usually comes from overbaking or overmixing the batter. Bake just until a toothpick comes out clean, and mix the flour in gently until just combined. The buttermilk in this recipe also helps keep the crumb tender.</p>
+<h3>Can I use bottled lemon juice instead of fresh?</h3>
+<p>Fresh lemon juice gives a brighter, cleaner flavor. Bottled juice often tastes flat and may contain preservatives that affect the texture. For the best results, use fresh lemons.</p>
+<h3>How do I get the most lemon flavor without making the cake sour?</h3>
+<p>Use both lemon zest and juice. The zest contains aromatic oils that deliver intense lemon flavor without the acidity, while the juice adds tang. The balance in this recipe keeps the cake bright but not puckering.</p>
+<h3>Can I make this cake into cupcakes?</h3>
+<p>Yes. Divide the batter among a 12-cup muffin tin lined with paper liners. Bake at 350°F for 18–22 minutes, or until a toothpick comes out clean. Reduce the glaze slightly or just drizzle lightly.</p>
+
+
+<!--WPRM Recipe 677-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Lemon Poppy Seed Cake</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/lemon-poppy-seed-cake-tender-crumb-brigh-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		A tender, moist lemon poppy seed cake with a bright citrus flavor and a subtle crunch from poppy seeds. This recipe uses a simple technique to keep the cake from drying out.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>9x5 inch loaf pan</li><li>mixing bowls</li><li>electric mixer</li><li>whisk</li><li>spatula</li><li>cooling rack</li><li>zester</li><li>juicer</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>1 ½ cups 190g all-purpose flour</li><li>1 teaspoon baking powder</li><li>¼ teaspoon baking soda</li><li>¼ teaspoon salt</li><li>1 tablespoon poppy seeds</li><li>½ cup 113g unsalted butter, softened</li><li>1 cup 200g granulated sugar</li><li>2 large eggs (room temperature)</li><li>1 teaspoon vanilla extract</li><li>1 tablespoon lemon zest (from about 2 lemons)</li><li>¼ cup 60ml fresh lemon juice</li><li>½ cup 120ml buttermilk, room temperature</li><li>For the glaze:</li><li>1 cup 120g powdered sugar</li><li>2 tablespoons fresh lemon juice</li><li>1 teaspoon lemon zest (optional)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Preheat your oven to 350°F (175°C). Grease a 9x5 inch loaf pan and line with parchment paper, leaving overhang on the long sides.</li><li>In a medium bowl, whisk together the flour, baking powder, baking soda, salt, and poppy seeds. Set aside.</li><li>In a large bowl, beat the softened butter and granulated sugar together with an electric mixer on medium speed until light and fluffy, about 3 minutes. Scrape down the bowl.</li><li>Add the eggs one at a time, beating well after each addition. Mix in the vanilla extract, lemon zest, and lemon juice. The mixture may look slightly curdled—that's fine.</li><li>With the mixer on low speed, add the flour mixture in three additions, alternating with the buttermilk, starting and ending with the flour. Mix just until combined. Do not overmix.</li><li>Pour the batter into the prepared pan and spread it evenly. Bake for 40–45 minutes, until a toothpick inserted into the center comes out clean or with a few moist crumbs. The top should be golden brown.</li><li>Let the cake cool in the pan for 10 minutes, then lift it out using the parchment overhang and transfer to a cooling rack. Cool completely before glazing.</li><li>For the glaze: whisk together the powdered sugar and lemon juice until smooth. Add more juice if needed for a thin drizzle. Stir in the lemon zest if using. Drizzle over the cooled cake.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>Storage: Wrap the cooled, unglazed cake tightly in plastic wrap and store at room temperature for up to 3 days. Glazed cake is best eaten the same day. To freeze, wrap the unglazed cake in plastic wrap then foil, and freeze for up to 3 months. Thaw overnight at room temperature, then glaze. For a dairy-free version, use plant-based butter and buttermilk substitute (1 tablespoon lemon juice plus enough plant milk to make ½ cup, let sit 5 minutes). This recipe contains gluten, dairy, and eggs.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Dessert</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
