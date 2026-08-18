@@ -1,7 +1,7 @@
 ---
 title: "No-Churn Vanilla Ice Cream: Silky, Simple, and Egg-Free"
 meta: "Learn how to make no-churn vanilla ice cream with a stable texture and pure flavor. This egg-free method uses a simple ratio for creamy results without a machin"
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/f26fcc1e-b7d4-4003-9d7e-e48fd33a85da/0_0.png"
 pubDate: "2026-07-05T13:01:06.000Z"
