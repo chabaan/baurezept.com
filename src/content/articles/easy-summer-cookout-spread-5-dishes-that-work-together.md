@@ -1,7 +1,7 @@
 ---
 title: "Easy Summer Cookout Spread: 5 Dishes That Work Together"
 meta: "Plan a summer cookout spread with 5 easy dishes that share ingredients and save time. Tips for timing, ratios, and feeding a crowd without stress."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/664a3bbd-03e4-4a6b-93ca-86b2e073c95e/0_1.png"
 pubDate: "2026-08-10T09:14:10.000Z"
