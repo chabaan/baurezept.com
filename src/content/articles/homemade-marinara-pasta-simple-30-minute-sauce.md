@@ -1,7 +1,7 @@
 ---
 title: "Homemade Marinara Pasta: Simple 30-Minute Sauce"
 meta: "Learn how to make homemade marinara pasta from scratch in 30 minutes. This easy sauce uses a key ratio of tomatoes to olive oil for bright, balanced flavor."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/fc5457b6-290e-4934-8689-c25732ec9afd/0_0.png"
 pubDate: "2026-07-20T19:16:26.000Z"
