@@ -1,7 +1,7 @@
 ---
 title: "3-Ingredient Iced Tea Cooler: Bright, Quick, Perfect"
 meta: "Learn how to make a 3-ingredient iced tea cooler with a precise brewing ratio and a simple citrus trick that prevents bitterness."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/53e3bdf8-13cd-4143-afcd-4353deaccd63/0_0.png"
 pubDate: "2026-07-22T21:24:21.000Z"
