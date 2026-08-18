@@ -3,11 +3,14 @@ title: "Lemon Pepper Chicken: Quick Skillet Recipe with Crispy Skin"
 meta: "Learn my technique for lemon pepper chicken with crispy skin and tangy pan sauce. A 30-minute skillet dinner that's genuinely helpful and easy to follow."
 category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
-image: "https://cdn.midjourney.com/318533a3-2316-43c3-b274-5482061b2172/0_1.png"
-pubDate: "2026-08-13T21:06:11.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/lemon-pepper-chicken-quick-skillet-recip.webp"
+pubDate: "2026-08-14T05:06:11Z"
+recipe: "{\"title\": \"Quick Skillet Lemon Pepper Chicken\", \"ingredients\": [\"4 boneless (skinless chicken breasts (about 6 oz each))\", \"2 teaspoons kosher salt\", \"1 teaspoon freshly ground black pepper\", \"1 tablespoon lemon zest (from 2 lemons)\", \"2 tablespoons unsalted butter (divided)\", \"1 tablespoon olive oil\", \"1/2 cup chicken broth (low sodium)\", \"2 tablespoons fresh lemon juice\", \"1 teaspoon honey\", \"1 clove garlic (minced)\", \"1 tablespoon capers (drained (optional))\", \"2 tablespoons fresh parsley (chopped)\"], \"instructions\": [\"Place chicken breasts between two sheets of plastic wrap. Pound to even 1/2-inch thickness using a meat mallet or rolling pin. Pat very dry with paper towels.\", \"In a small bowl, combine salt, black pepper, and lemon zest. Rub this mixture evenly over both sides of each breast. Let rest at room temperature for 10 minutes.\", \"Heat a 12-inch skillet over medium-high heat for 2 minutes. Add 1 tablespoon butter and olive oil, swirling to coat.\", \"Place chicken in skillet in a single layer (do not crowd). Cook 4-5 minutes without moving, until deep golden brown and crisp on the bottom. Flip and cook 3-4 minutes more, until internal temperature reaches 160°F (it will rise to 165°F while resting). Transfer to a plate, tent with foil.\", \"Reduce heat to medium. Add remaining 1 tablespoon butter and minced garlic. Sauté 30 seconds until fragrant.\", \"Pour in chicken broth, lemon juice, honey, and capers (if using). Scrape up browned bits with a wooden spoon. Simmer 2-3 minutes until slightly thickened and reduced by about half.\", \"Return chicken and any accumulated juices to skillet. Spoon sauce over breasts. Cook 1 minute to warm through.\", \"Sprinkle with fresh parsley. Serve immediately.\"], \"equipment\": [\"12-inch cast iron or stainless steel skillet\", \"meat mallet or rolling pin\", \"instant-read thermometer\", \"citrus juicer\", \"paper towels\"], \"servings\": \"4\", \"prep_time\": \"10\", \"cook_time\": \"20\", \"total_time\": \"30\", \"calories\": \"310\"}"
 ---
 
 <p>The smell of lemon zest hitting a hot skillet is one of those kitchen moments that stops me mid-task. That sharp, citrusy brightness paired with cracked black pepper—it's a combination that feels simple but delivers real depth. This lemon pepper chicken is my go-to when I want a dinner that looks and tastes like I spent more time than I actually did.</p>
+<figure><img src="https://cdn.midjourney.com/318533a3-2316-43c3-b274-5482061b2172/0_3.png" alt="Pounding chicken breasts to even thickness between plastic wrap" /></figure>
+
 
 <p>The trick is in the technique, not the ingredient list. Most versions of this dish end up with pale, rubbery chicken and a thin, watery sauce. I avoid that by controlling two things: surface moisture and heat. Pat the chicken dry. Really dry. Then let the pan get hot before the meat goes in. That contrast creates the crust, and the crust locks in the juice.</p>
 
@@ -59,3 +62,31 @@ pubDate: "2026-08-13T21:06:11.000Z"
 <h2>A Brief Takeaway</h2>
 
 <p>Lemon pepper chicken doesn't need a long ingredient list or complicated steps. What it needs is attention to a few key details: dry chicken, hot pan, proper sear, and a quick pan sauce that uses the fond. Master those, and you'll have a reliable weeknight dinner that feels special without the extra effort. The bright, peppery flavor and crispy skin speak for themselves.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Can I use chicken thighs instead of breasts?</h3>
+<p>Yes, boneless skinless thighs work well. Cook them 5-6 minutes per side until they reach 175°F for best tenderness. The extra fat helps keep them moist.</p>
+<h3>How do I get the skin extra crispy?</h3>
+<p>Pat the chicken very dry before seasoning, and don't move it while searing. Let it form a crust naturally. Using a cast iron skillet helps maintain high heat.</p>
+<h3>Can I make this without capers?</h3>
+<p>Absolutely. Omit them entirely or substitute with a teaspoon of rinsed and chopped green olives for a similar briny pop. The dish still tastes bright and peppery without them.</p>
+
+
+<!--WPRM Recipe 1670-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Quick Skillet Lemon Pepper Chicken</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/lemon-pepper-chicken-quick-skillet-recip-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		Juicy chicken breasts with a crisp, peppery crust and a bright lemon pan sauce, ready in 30 minutes.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>12-inch cast iron or stainless steel skillet</li><li>meat mallet or rolling pin</li><li>instant-read thermometer</li><li>citrus juicer</li><li>paper towels</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>4 boneless (skinless chicken breasts (about 6 oz each))</li><li>2 teaspoons kosher salt</li><li>1 teaspoon freshly ground black pepper</li><li>1 tablespoon lemon zest (from 2 lemons)</li><li>2 tablespoons unsalted butter (divided)</li><li>1 tablespoon olive oil</li><li>1/2 cup chicken broth (low sodium)</li><li>2 tablespoons fresh lemon juice</li><li>1 teaspoon honey</li><li>1 clove garlic (minced)</li><li>1 tablespoon capers (drained (optional))</li><li>2 tablespoons fresh parsley (chopped)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Place chicken breasts between two sheets of plastic wrap. Pound to even 1/2-inch thickness using a meat mallet or rolling pin. Pat very dry with paper towels.</li><li>In a small bowl, combine salt, black pepper, and lemon zest. Rub this mixture evenly over both sides of each breast. Let rest at room temperature for 10 minutes.</li><li>Heat a 12-inch skillet over medium-high heat for 2 minutes. Add 1 tablespoon butter and olive oil, swirling to coat.</li><li>Place chicken in skillet in a single layer (do not crowd). Cook 4-5 minutes without moving, until deep golden brown and crisp on the bottom. Flip and cook 3-4 minutes more, until internal temperature reaches 160°F (it will rise to 165°F while resting). Transfer to a plate, tent with foil.</li><li>Reduce heat to medium. Add remaining 1 tablespoon butter and minced garlic. Sauté 30 seconds until fragrant.</li><li>Pour in chicken broth, lemon juice, honey, and capers (if using). Scrape up browned bits with a wooden spoon. Simmer 2-3 minutes until slightly thickened and reduced by about half.</li><li>Return chicken and any accumulated juices to skillet. Spoon sauce over breasts. Cook 1 minute to warm through.</li><li>Sprinkle with fresh parsley. Serve immediately.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>Storage: Refrigerate leftovers in an airtight container for up to 3 days. Reheat gently in a covered skillet over low heat with a splash of broth to prevent drying. This recipe contains dairy (butter) and is gluten-free as written. For dairy-free, substitute the butter with a neutral oil like avocado oil. Always handle raw chicken with care: wash hands and surfaces thoroughly, and use a separate cutting board. Safe internal temperature for chicken is 165°F. For specific dietary needs, consult a qualified professional.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Main Course</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
