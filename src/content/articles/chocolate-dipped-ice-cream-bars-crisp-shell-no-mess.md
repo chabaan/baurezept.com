@@ -1,7 +1,7 @@
 ---
 title: "Chocolate-Dipped Ice Cream Bars: Crisp Shell, No Mess"
 meta: "Learn how to make chocolate-dipped ice cream bars at home with a crisp shell that doesn't crack. Expert tips on melting chocolate and freezing for best results."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/c7663fed-e506-425d-9c44-127e1fd2714e/0_0.png"
 pubDate: "2026-07-16T12:16:05.000Z"
