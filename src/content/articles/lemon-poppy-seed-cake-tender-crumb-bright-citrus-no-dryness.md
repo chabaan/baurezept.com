@@ -1,7 +1,7 @@
 ---
 title: "Lemon Poppy Seed Cake: Tender Crumb, Bright Citrus, No Dryness"
 meta: "Learn how to make a moist Lemon Poppy Seed Cake with a tender crumb and bright citrus flavor. Expert tips for the perfect balance of tangy and sweet."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/15b296b5-0068-46a1-91db-84d53bda45a0/0_1.png"
 pubDate: "2026-07-16T20:50:13.000Z"
