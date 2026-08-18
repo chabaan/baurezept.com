@@ -1,7 +1,7 @@
 ---
 title: "Homemade Ice Cream Sandwiches: Soft Cookies, No Spreading"
 meta: "Learn to make homemade ice cream sandwiches with cookies that stay soft and don't crumble. My trick: a precise butter-to-flour ratio for perfect texture."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/9590725f-8df8-413e-9beb-5014cdea2656/0_1.png"
 pubDate: "2026-06-23T22:12:01.000Z"
