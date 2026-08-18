@@ -1,7 +1,7 @@
 ---
 title: "Classic Spaghetti Aglio e Olio: Perfect Every Time"
 meta: "Learn the technique for classic spaghetti aglio e olio with a golden ratio of oil to pasta and a key tip for silky, non-greasy sauce."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/d30ac1a3-b756-4e0c-972e-9f562b7f355c/0_1.png"
 pubDate: "2026-07-29T09:55:25.000Z"
