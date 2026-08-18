@@ -1,7 +1,7 @@
 ---
 title: "Family Sheet-Pan Summer Dinner with Sausage and Veggies"
 meta: "Make a family sheet-pan summer dinner with sausage, corn, and zucchini. One pan, 30 minutes, and a simple herb dressing for busy weeknights."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/86332f18-65ed-40ed-a75f-b4c0d642f071/0_0.png"
 pubDate: "2026-07-12T22:51:34.000Z"
