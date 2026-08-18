@@ -1,7 +1,7 @@
 ---
 title: "Crispy Air Fryer Lemon Pepper Wings Recipe"
 meta: "Learn how to make crispy air fryer lemon pepper wings with a tangy, buttery coating. No deep frying needed — just perfect golden wings every time."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/6d431c59-9598-4858-bf20-0c7dbc6c48dd/0_0.png"
 pubDate: "2026-08-09T13:01:22.000Z"
