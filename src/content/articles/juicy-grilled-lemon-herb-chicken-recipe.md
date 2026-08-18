@@ -1,7 +1,7 @@
 ---
 title: "Juicy Grilled Lemon Herb Chicken Recipe"
 meta: "Learn my technique for perfectly juicy grilled lemon herb chicken every time. Simple ingredients, clear steps, and a key ratio for flavor."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/193df991-0534-4164-9dab-c4820ecbcd67/0_0.png"
 pubDate: "2026-06-19T20:25:31.000Z"
