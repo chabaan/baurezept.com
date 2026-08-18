@@ -1,7 +1,7 @@
 ---
 title: "Garden Fresh Salsa Verde – Bright & Easy Weeknight Sauce"
 meta: "Learn to make garden fresh salsa verde with roasted tomatillos, jalapeño, and cilantro. A tangy, versatile sauce for tacos, eggs, and more."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/c0189f03-2619-48a3-9e57-8179c89b879f/0_3.png"
 pubDate: "2026-07-11T22:19:54.000Z"
