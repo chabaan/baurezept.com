@@ -1,7 +1,7 @@
 ---
 title: "Chunky Cilantro-Lime Salsa Recipe for Perfect Texture"
 meta: "Get the best chunky cilantro-lime salsa with a precise ingredient ratio and technique. Fresh, bright, and perfect for dipping or topping tacos."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/c9b65f1a-5eae-4f00-979a-ba5c03d68eb0/0_1.png"
 pubDate: "2026-08-04T14:52:00.000Z"
