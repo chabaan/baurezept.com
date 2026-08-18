@@ -1,7 +1,7 @@
 ---
 title: "Summer Party Dip Trio: Cool & Creamy Recipes"
 meta: "Make this summer party dip trio with a cool cucumber yogurt dip, creamy roasted red pepper hummus, and tangy herb buttermilk ranch. Easy, fresh, and crowd-pleas"
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/7e60f94b-1b95-473b-8c5c-03526d21a91e/0_0.png"
 pubDate: "2026-06-17T09:51:24.000Z"
