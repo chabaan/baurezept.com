@@ -1,7 +1,7 @@
 ---
 title: "Cookies & Cream Ice Cream Cake: No-Bake Layer Cake"
 meta: "Learn how to build a Cookies & Cream Ice Cream Cake with a crunchy Oreo crust and creamy no-churn layers. No ice cream maker needed."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/ee927f10-bc11-49ac-93fe-e1d7dfa04967/0_0.png"
 pubDate: "2026-07-18T13:07:17.000Z"
