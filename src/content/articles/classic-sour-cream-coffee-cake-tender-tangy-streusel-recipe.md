@@ -1,7 +1,7 @@
 ---
 title: "Classic Sour Cream Coffee Cake: Tender, Tangy Streusel Recipe"
 meta: "Learn how to make a classic sour cream coffee cake with a tender crumb, tangy sour cream, and a crunchy cinnamon streusel. Perfect for breakfast or brunch."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/51111191-1ae1-4b08-ba96-5b2809be9e3f/0_1.png"
 pubDate: "2026-08-05T08:02:02.000Z"
