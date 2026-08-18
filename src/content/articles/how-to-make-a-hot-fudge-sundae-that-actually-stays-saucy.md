@@ -1,7 +1,7 @@
 ---
 title: "How to Make a Hot Fudge Sundae That Actually Stays Saucy"
 meta: "Learn how to make a hot fudge sundae with a glossy, never-grainy sauce. Includes the exact corn syrup ratio for a spoonable, crack-free fudge."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/fcc9abad-c6b7-47b2-afc9-ed793a57810c/0_1.png"
 pubDate: "2026-08-09T21:45:09.000Z"
