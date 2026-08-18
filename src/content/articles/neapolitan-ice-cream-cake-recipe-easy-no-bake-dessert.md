@@ -1,7 +1,7 @@
 ---
 title: "Neapolitan Ice Cream Cake Recipe – Easy No-Bake Dessert"
 meta: "Learn how to make a stunning Neapolitan ice cream cake at home. No-bake layers of chocolate, vanilla, and strawberry with a cookie crust."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/84023398-16da-4ef4-b2ae-ddb67536c387/0_0.png"
 pubDate: "2026-07-07T21:55:40.000Z"
