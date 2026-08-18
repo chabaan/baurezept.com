@@ -1,7 +1,7 @@
 ---
 title: "Perfect Baked Sweet Potato Wedges with a Crispy Edge"
 meta: "Learn how to make baked sweet potato wedges with a crispy edge and tender center. My ratio trick delivers perfect results every time."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/ff13f770-e9d6-4193-b5ff-6c8fc42d44da/0_0.png"
 pubDate: "2026-07-17T20:58:14.000Z"
