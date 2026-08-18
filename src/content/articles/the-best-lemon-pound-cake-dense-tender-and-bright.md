@@ -1,7 +1,7 @@
 ---
 title: "The Best Lemon Pound Cake: Dense, Tender, and Bright"
 meta: "Learn the technique for a perfect lemon pound cake with a tender crumb and bright citrus glaze. Exact ratios, tips, and the secret to avoiding a dry cake."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/f1d5fb46-035e-4364-bb71-9a0b18a58784/0_1.png"
 pubDate: "2026-07-25T21:24:05.000Z"
