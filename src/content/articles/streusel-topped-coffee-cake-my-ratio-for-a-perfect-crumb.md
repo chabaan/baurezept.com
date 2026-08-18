@@ -1,7 +1,7 @@
 ---
 title: "Streusel-Topped Coffee Cake: My Ratio for a Perfect Crumb"
 meta: "Learn my streusel-topped coffee cake recipe with a secret ratio for a tender crumb that stays moist for days. Easy, buttery, and perfect for breakfast."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/dd20c840-dc30-46f4-8c2d-c3d1834dc1ea/0_0.png"
 pubDate: "2026-07-22T14:28:33.000Z"
