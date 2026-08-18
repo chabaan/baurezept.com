@@ -1,7 +1,7 @@
 ---
 title: "Loaded Salsa Nachos: Crispy, Cheesy & Ready in 15 Minutes"
 meta: "Loaded Salsa Nachos with a crispy edge and melty cheese. My technique for even topping distribution and the perfect salsa-to-chip ratio."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/6fe9263b-cef8-4d11-ad44-81cb1607a1ec/0_0.png"
 pubDate: "2026-08-05T09:49:45.000Z"
