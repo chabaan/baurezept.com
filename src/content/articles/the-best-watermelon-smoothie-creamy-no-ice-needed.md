@@ -1,7 +1,7 @@
 ---
 title: "The Best Watermelon Smoothie (Creamy, No Ice Needed)"
 meta: "Learn how to make a creamy watermelon smoothie without ice that stays thick and flavorful. My secret ratio for a perfectly balanced drink every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/aa43c13c-2241-407a-8da7-0a090251b52e/0_0.png"
 pubDate: "2026-07-05T14:37:22.000Z"
