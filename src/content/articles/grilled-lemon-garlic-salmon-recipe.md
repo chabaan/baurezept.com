@@ -1,7 +1,7 @@
 ---
 title: "Grilled Lemon Garlic Salmon Recipe"
 meta: "Learn how to make grilled lemon garlic salmon with a perfect char and flaky center. Expert tips on timing, temperature, and technique."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/a41fbf19-6512-40ea-b2ba-82661d32985a/0_0.png"
 pubDate: "2026-07-26T14:28:31.000Z"
