@@ -1,7 +1,7 @@
 ---
 title: "Easy Aperol Spritz: The Perfect 3-Ingredient Ratio"
 meta: "Learn the exact Easy Aperol Spritz ratio for a perfectly balanced cocktail. No fancy tools needed—just ice, three ingredients, and a simple method."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/124b4c90-973d-4ae2-882d-367e27dc78b0/0_0.png"
 pubDate: "2026-07-01T09:49:31.000Z"
