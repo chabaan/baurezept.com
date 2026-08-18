@@ -1,7 +1,7 @@
 ---
 title: "Crispy Lemon Pepper Wings with a Foolproof Technique"
 meta: "Learn how to make crispy lemon pepper wings with a simple baking powder trick. Get the exact oven temp, timing, and seasoning ratio for perfect wings."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/b9c7ba68-2672-4704-ac40-aab67fb23818/0_0.png"
 pubDate: "2026-06-26T13:51:29.000Z"
