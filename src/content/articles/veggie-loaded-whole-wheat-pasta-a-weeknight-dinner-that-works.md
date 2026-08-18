@@ -1,7 +1,7 @@
 ---
 title: "Veggie-Loaded Whole Wheat Pasta: A Weeknight Dinner That Works"
 meta: "Learn how to make veggie-loaded whole wheat pasta with a simple pan-roasting technique. A hearty, practical weeknight dinner that actually tastes great."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/98282c8e-076d-4a86-89e2-99defb462b44/0_0.png"
 pubDate: "2026-07-31T22:42:19.000Z"
