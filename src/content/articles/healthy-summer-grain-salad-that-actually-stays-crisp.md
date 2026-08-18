@@ -1,7 +1,7 @@
 ---
 title: "Healthy Summer Grain Salad That Actually Stays Crisp"
 meta: "Make a healthy summer grain salad that stays crisp and flavorful. My tip for perfectly cooked grains and a bright lemon dressing."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/1dfec68d-6faf-479b-a596-01647206f235/0_1.png"
 pubDate: "2026-07-10T21:36:41.000Z"
