@@ -1,7 +1,7 @@
 ---
 title: "Fresh Tomato Pico de Gallo: My Go-To Ratio for Perfect Chunks"
 meta: "Learn my simple method for fresh tomato pico de gallo that stays crisp, not watery. The right ratio of tomato to onion to cilantro makes all the difference."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/5d8de033-26fc-43c9-b2a0-7d9387840b38/0_0.png"
 pubDate: "2026-08-12T21:28:27.000Z"
