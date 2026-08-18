@@ -1,7 +1,7 @@
 ---
 title: "Summer Veggie Curry: Quick One-Pan Weeknight Dinner"
 meta: "Make a vibrant summer veggie curry in 30 minutes with fresh zucchini, bell peppers, and tomatoes. My coconut milk trick keeps it light but creamy."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/63a9b77f-cc13-460e-80f9-5024a99ad5d5/0_1.png"
 pubDate: "2026-07-02T13:45:41.000Z"
