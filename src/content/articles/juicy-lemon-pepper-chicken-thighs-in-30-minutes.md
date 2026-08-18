@@ -1,7 +1,7 @@
 ---
 title: "Juicy Lemon Pepper Chicken Thighs in 30 Minutes"
 meta: "Get perfectly juicy lemon pepper chicken thighs with crispy skin every time. My 30-minute method uses a simple trick for bright, bold flavor."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/1212f2bf-94a2-4c58-b1d7-4101d1133cad/0_0.png"
 pubDate: "2026-06-29T21:18:49.000Z"
