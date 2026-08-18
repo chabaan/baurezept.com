@@ -1,7 +1,7 @@
 ---
 title: "Lemon Pepper Chicken and Rice – One Pan Weeknight Dinner"
 meta: "Learn how to make lemon pepper chicken and rice in one pan with perfectly cooked rice and tender chicken. A simple weeknight dinner with expert tips."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/61325bd7-d449-49b4-868d-4a6be441e1f5/0_0.png"
 pubDate: "2026-07-15T20:35:02.000Z"
