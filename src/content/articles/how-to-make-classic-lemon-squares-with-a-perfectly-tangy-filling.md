@@ -1,7 +1,7 @@
 ---
 title: "How to Make Classic Lemon Squares with a Perfectly Tangy Filling"
 meta: "Learn how to make classic lemon squares with a buttery shortbread crust and bright, tangy filling. Expert tips for clean cuts and the perfect balance of sweet a"
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/ba4d400a-a961-42c1-917b-eaceb32fb63c/0_0.png"
 pubDate: "2026-07-26T08:12:29.000Z"
