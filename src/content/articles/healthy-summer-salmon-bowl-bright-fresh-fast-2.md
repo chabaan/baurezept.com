@@ -1,7 +1,7 @@
 ---
 title: "Healthy Summer Salmon Bowl: Bright, Fresh & Fast"
 meta: "Learn how to build a healthy summer salmon bowl with perfectly cooked fish, crisp veggies, and a tangy dressing. Easy weeknight dinner recipe."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/299a8d2c-12db-4349-8f3f-43bf32b5d83e/0_0.png"
 pubDate: "2026-07-28T21:23:26.000Z"
