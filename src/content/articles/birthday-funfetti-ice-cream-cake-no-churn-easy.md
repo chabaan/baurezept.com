@@ -1,7 +1,7 @@
 ---
 title: "Birthday Funfetti Ice Cream Cake: No-Churn & Easy"
 meta: "Learn how to make a birthday funfetti ice cream cake from scratch. No-churn method, clear ratios, and tips for clean slices every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/54c7a27f-c006-4389-b254-10cefe7650f0/0_0.png"
 pubDate: "2026-07-31T21:08:12.000Z"
