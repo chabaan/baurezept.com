@@ -3,7 +3,7 @@ title: "Frozen Strawberry Lemonade: The Perfect Slushy Ratio"
 meta: "Learn the secret ratio for a perfectly slushy frozen strawberry lemonade. No ice crystals, just bold berry-lemon flavor in every sip."
 category: "Desserts & Drinks"
 author: "Emily Carter"
-image: "https://baurezept.com/wp-content/uploads/2026/06/frozen-strawberry-lemonade-the-perfect-s-2.webp"
+image: "/images/frozen-strawberry-lemonade-the-perfect-slushy-ratio.webp"
 pubDate: "2026-07-02T16:13:43Z"
 recipe: "{\"title\": \"Frozen Strawberry Lemonade\", \"ingredients\": [\"2 cups frozen strawberries (unsweetened, 1/2 cup freshly squeezed lemon juice (about 3-4 lemons), 1/3 cup granulated sugar, 1/2 cup cold water, 1 cup ice cubes)\"], \"instructions\": [\"Make a quick simple syrup: In a small saucepan, combine sugar and 1/2 cup water. Heat over medium, stirring, until sugar dissolves completely. Remove from heat and let cool for 5 minutes. (This prevents grainy texture.) 2. In a blender, add frozen strawberries, lemon juice, cooled simple syrup, and ice cubes. 3. Blend on high for 30-45 seconds, until the mixture is thick and slushy. Stop and scrape down sides if needed. 4. Taste and adjust: For more tartness, add a squeeze of lemon. For sweeter, add a teaspoon more sugar and blend briefly. 5. Pour into two glasses and serve immediately with a straw.\"], \"equipment\": [\"Blender\", \"measuring cups\", \"measuring spoons\", \"citrus juicer\", \"small saucepan (optional for simple syrup)\"], \"servings\": \"2\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": \"145\"}"
 ---

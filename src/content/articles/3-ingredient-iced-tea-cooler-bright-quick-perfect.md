@@ -3,7 +3,7 @@ title: "3-Ingredient Iced Tea Cooler: Bright, Quick, Perfect"
 meta: "Learn how to make a 3-ingredient iced tea cooler with a precise brewing ratio and a simple citrus trick that prevents bitterness."
 category: "Desserts & Drinks"
 author: "Emily Carter"
-image: "https://baurezept.com/wp-content/uploads/2026/06/3-ingredient-iced-tea-cooler-bright-quic-1.webp"
+image: "/images/3-ingredient-iced-tea-cooler-bright-quick-perfect.webp"
 pubDate: "2026-07-23T05:24:21Z"
 recipe: "{\"title\": \"3-Ingredient Iced Tea Cooler\", \"ingredients\": [\"4 cups water\", \"4 black tea bags (e.g., English Breakfast or Ceylon)\", \"2 tablespoons honey (or agave syrup)\", \"1 large lemon (thinly sliced (plus extra for garnish))\", \"Ice cubes\"], \"instructions\": [\"Bring 4 cups of water to a rolling boil in a medium saucepan. Remove from heat and add the tea bags. Steep for exactly 4 minutes — no longer, or the tea turns bitter.\", \"Remove tea bags, letting them drip briefly into the pot. Stir in honey until fully dissolved. The warm liquid should feel slightly sweet on your tongue.\", \"Add lemon slices directly into the hot tea. Let steep for 2 minutes. This releases bright citrus oils and softens the lemon’s acidity.\", \"Strain the tea through a fine-mesh strainer into a heatproof pitcher or bowl. Discard lemon slices. Let cool at room temperature for 10 minutes.\", \"Fill two tall glasses with ice cubes. Pour the cooled tea over the ice. Garnish with a fresh lemon slice. Serve immediately.\"], \"equipment\": [\"medium saucepan\", \"fine-mesh strainer\", \"2 tall glasses\", \"wooden spoon\"], \"servings\": \"2\", \"prep_time\": \"5\", \"cook_time\": \"5\", \"total_time\": \"10\", \"calories\": \"90\"}"
 ---

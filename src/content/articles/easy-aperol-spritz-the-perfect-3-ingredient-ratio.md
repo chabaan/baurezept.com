@@ -3,7 +3,7 @@ title: "Easy Aperol Spritz: The Perfect 3-Ingredient Ratio"
 meta: "Learn the exact Easy Aperol Spritz ratio for a perfectly balanced cocktail. No fancy tools needed—just ice, three ingredients, and a simple method."
 category: "Desserts & Drinks"
 author: "Emily Carter"
-image: "https://baurezept.com/wp-content/uploads/2026/06/easy-aperol-spritz-the-perfect-3-ingredi-3.webp"
+image: "/images/easy-aperol-spritz-the-perfect-3-ingredient-ratio.webp"
 pubDate: "2026-07-01T17:49:31Z"
 recipe: "{\"title\": \"Easy Aperol Spritz\", \"ingredients\": [\"3 oz 90 ml Prosecco, chilled\", \"2 oz 60 ml Aperol\", \"1 oz 30 ml soda water, chilled\", \"Ice cubes (preferably large, single cubes)\", \"1 slice of orange (for garnish)\"], \"instructions\": [\"Fill a large wine glass halfway with ice cubes. Use large cubes if you have them—they melt slower and keep the drink from watering down.\", \"Pour the cold Prosecco over the ice first. This helps the bubbles settle gently rather than foaming up.\", \"Add the Aperol. It will sink a little, but that’s fine.\", \"Top with the soda water.\", \"Stir gently with a bar spoon or chopstick—just 3 or 4 slow turns. Over-stirring knocks out the carbonation.\", \"Garnish with a single fresh orange slice. Slide it into the glass or float it on top. Serve immediately.\"], \"equipment\": [\"Large wine glass\", \"bar spoon or chopstick\", \"jigger or measuring cup\"], \"servings\": \"1\", \"prep_time\": \"2\", \"cook_time\": null, \"total_time\": \"2\", \"calories\": \"150\"}"
 ---

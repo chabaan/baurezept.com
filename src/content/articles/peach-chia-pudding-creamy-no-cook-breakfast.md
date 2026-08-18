@@ -3,7 +3,7 @@ title: "Peach Chia Pudding: Creamy No-Cook Breakfast"
 meta: "Learn how to make peach chia pudding with a creamy texture and ripe fruit. A simple no-cook breakfast with my ratio for perfect thickness every time."
 category: "Breakfast & Brunch"
 author: "Ryan Mitchell"
-image: "https://baurezept.com/wp-content/uploads/2026/06/peach-chia-pudding-creamy-no-cook-breakf.webp"
+image: "/images/peach-chia-pudding-creamy-no-cook-breakfast.webp"
 pubDate: "2026-08-01T20:43:30Z"
 recipe: "{\"title\": \"Peach Chia Pudding\", \"ingredients\": [\"1/4 cup chia seeds\", \"1 cup unsweetened almond milk (or any milk)\", \"1 tablespoon maple syrup or honey\", \"1/4 teaspoon vanilla extract\", \"1 large ripe peach (diced)\", \"1/2 teaspoon lemon juice (optional, to prevent browning)\", \"Pinch of salt\"], \"instructions\": [\"In a small bowl, whisk together the chia seeds, almond milk, maple syrup, vanilla extract, and salt. Whisk vigorously to break up any clumps of chia seeds.\", \"Let the mixture sit for 5 minutes, then whisk again. This prevents the seeds from settling at the bottom.\", \"Cover and refrigerate for at least 4 hours or overnight. The pudding should be thick and spoonable, not runny.\", \"While the pudding sets, dice the peach. Toss with lemon juice if using to keep the color bright.\", \"To serve, spoon half the chia pudding into each jar. Top with diced peaches. Eat immediately or refrigerate for up to 2 days.\"], \"equipment\": [\"small bowl\", \"whisk\", \"2 serving jars or glasses\", \"sharp knife\", \"cutting board\", \"fine-mesh sieve (optional)\"], \"servings\": \"2\", \"prep_time\": \"10\", \"cook_time\": null, \"total_time\": \"10\", \"calories\": \"220\"}"
 ---

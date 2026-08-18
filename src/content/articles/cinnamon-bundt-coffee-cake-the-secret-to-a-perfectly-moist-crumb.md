@@ -3,7 +3,7 @@ title: "Cinnamon Bundt Coffee Cake: The Secret to a Perfectly Moist Crumb"
 meta: "Get a perfectly moist cinnamon bundt coffee cake every time. This recipe shares my go-to ratio for a tender crumb and a crisp, buttery streusel layer."
 category: "Desserts & Drinks"
 author: "Emily Carter"
-image: "https://baurezept.com/wp-content/uploads/2026/06/cinnamon-bundt-coffee-cake-the-secret-to.webp"
+image: "/images/cinnamon-bundt-coffee-cake-the-secret-to-a-perfectly-moist-crumb.webp"
 pubDate: "2026-08-14T17:54:39Z"
 ---
 

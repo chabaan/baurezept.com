@@ -3,7 +3,7 @@ title: "Summer Fun Snack Skewers: Easy, Customizable Party Bites"
 meta: "Learn how to build Summer Fun Snack Skewers with a perfect balance of sweet, savory, and crunchy. Easy, no-cook recipe for parties and picnics."
 category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
-image: "https://baurezept.com/wp-content/uploads/2026/06/summer-fun-snack-skewers-easy-customizab.webp"
+image: "/images/summer-fun-snack-skewers-easy-customizable-party-bites.webp"
 pubDate: "2026-07-27T22:14:50Z"
 ---
 
