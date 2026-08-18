@@ -1,7 +1,7 @@
 ---
 title: "Grilled Summer Dinner Combo: Chicken, Veggies & Corn"
 meta: "Get my Grilled Summer Dinner Combo recipe for juicy chicken, smoky veggies, and sweet corn. Easy, balanced, and perfect for weeknights."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/0bce708b-a671-4964-b319-bc04288abe7f/0_0.png"
 pubDate: "2026-08-02T14:42:20.000Z"
