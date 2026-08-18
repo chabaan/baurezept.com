@@ -1,7 +1,7 @@
 ---
 title: "Peach Glazed Pork Chops: Sweet & Savory Weeknight Dinner"
 meta: "Learn how to make peach glazed pork chops with a simple homemade glaze. This quick weeknight dinner is juicy, tangy, and ready in under 30 minutes."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/c90656a7-69b9-4fdc-a4bc-0b59cf0a8550/0_0.png"
 pubDate: "2026-07-15T20:27:20.000Z"
