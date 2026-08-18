@@ -1,7 +1,7 @@
 ---
 title: "Easy Lemon Sugar Cookies That Keep Their Shape"
 meta: "Get bakery-style easy lemon sugar cookies with a crisp edge and soft center. My lemon-sugar ratio keeps the shape perfect every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/9d9a478a-b5b6-4c86-8218-ee082fedb9f3/0_0.png"
 pubDate: "2026-07-13T14:07:24.000Z"
