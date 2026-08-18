@@ -1,7 +1,7 @@
 ---
 title: "No-Bake Lemon Cheesecake: Creamy, Tangy, and So Easy"
 meta: "This no-bake lemon cheesecake is silky, bright, and simple to make. Learn the key ratio for perfect texture without gelatin or eggs."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/4a7987e1-93d9-4399-b446-f24e69adaec9/0_0.png"
 pubDate: "2026-08-07T21:17:17.000Z"
