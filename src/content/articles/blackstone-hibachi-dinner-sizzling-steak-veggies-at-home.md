@@ -1,7 +1,7 @@
 ---
 title: "Blackstone Hibachi Dinner: Sizzling Steak & Veggies at Home"
 meta: "Make a Blackstone hibachi dinner with steak, fried rice, and veggies. Get the exact heat settings, timing, and sauce ratios for restaurant results at home."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/3cd0479b-aed3-4113-93d9-7ec2391eaa96/0_0.png"
 pubDate: "2026-07-30T20:26:32.000Z"
