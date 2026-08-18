@@ -1,7 +1,7 @@
 ---
 title: "Grilled Garlic Butter Steak: Perfect Sear Every Time"
 meta: "Learn how to make grilled garlic butter steak with a perfect sear and tender interior. Exact temps, timing, and a butter-basting technique that works."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/3672935f-156c-4feb-b8e7-3fc12d5b9fc7/0_0.png"
 pubDate: "2026-07-21T19:38:30.000Z"
