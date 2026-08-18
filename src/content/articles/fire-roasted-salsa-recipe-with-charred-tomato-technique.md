@@ -1,7 +1,7 @@
 ---
 title: "Fire-Roasted Salsa Recipe with Charred Tomato Technique"
 meta: "Learn my fire-roasted salsa technique for deep, smoky flavor. This easy homemade salsa uses charred tomatoes and peppers for the best texture."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/281a7095-f9b5-445e-b741-2ebfe1c1ec37/0_0.png"
 pubDate: "2026-07-04T19:44:28.000Z"
