@@ -1,7 +1,7 @@
 ---
 title: "Lemon Blueberry Cookie Bars: Soft, Tangy & Easy Recipe"
 meta: "Learn how to make Lemon Blueberry Cookie Bars with a soft, tangy crumb and juicy berry pockets. Easy technique tips for perfect results every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/e64001a1-71ba-41fc-98cf-d1606f7f5938/0_0.png"
 pubDate: "2026-07-07T14:50:13.000Z"
