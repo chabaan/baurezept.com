@@ -1,7 +1,7 @@
 ---
 title: "Peach French Toast Bake – Easy Overnight Breakfast Recipe"
 meta: "Make a perfect peach French toast bake with a custard-soaked center and caramelized edges. My ratio and technique tips ensure it turns out every time."
-category: "Breakfast &amp; Brunch"
+category: "Breakfast & Brunch"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/6d608347-1143-4748-9926-40221f7a76c6/0_1.png"
 pubDate: "2026-07-04T07:37:00.000Z"
