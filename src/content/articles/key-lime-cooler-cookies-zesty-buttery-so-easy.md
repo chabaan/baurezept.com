@@ -1,7 +1,7 @@
 ---
 title: "Key Lime Cooler Cookies: Zesty, Buttery & So Easy"
 meta: "Learn how to make Key Lime Cooler Cookies with a perfect crumbly texture and tangy glaze. My precise ratio ensures they hold their shape every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/ef6d35d6-381f-4982-a515-15b48466accb/0_0.png"
 pubDate: "2026-06-21T21:02:34.000Z"
