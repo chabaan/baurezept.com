@@ -1,7 +1,7 @@
 ---
 title: "Kids' Summer Fruit Kabobs: Easy, No-Cook Snack Idea"
 meta: "Make kids' summer fruit kabobs with a simple trick that keeps fruit fresh and colorful. No-cook snack, ready in 15 minutes, perfect for parties."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/ab3d9537-4db3-4183-86ed-c74191a5cc5f/0_0.png"
 pubDate: "2026-07-28T08:13:13.000Z"
