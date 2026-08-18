@@ -1,7 +1,7 @@
 ---
 title: "Crockpot Lemon Pepper Chicken: Tender, Tangy, and Effortless"
 meta: "Make juicy Crockpot Lemon Pepper Chicken with a tangy, peppery sauce. This easy slow cooker recipe gives you tender chicken every time."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/61e14c54-dc21-4060-aab3-310998bb19e5/0_0.png"
 pubDate: "2026-08-04T12:50:05.000Z"
