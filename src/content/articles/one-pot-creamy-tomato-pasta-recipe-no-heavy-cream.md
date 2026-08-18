@@ -1,7 +1,7 @@
 ---
 title: "One-Pot Creamy Tomato Pasta Recipe (No Heavy Cream)"
 meta: "Learn my one-pot creamy tomato pasta technique for a silky sauce without heavy cream. A simple weeknight dinner with big flavor."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/c272a75e-14cb-416b-b45f-d971047bb9f7/0_1.png"
 pubDate: "2026-07-03T09:27:17.000Z"
