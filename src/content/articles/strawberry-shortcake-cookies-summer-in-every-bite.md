@@ -1,7 +1,7 @@
 ---
 title: "Strawberry Shortcake Cookies: Summer in Every Bite"
 meta: "Strawberry shortcake cookies with fresh strawberries, buttermilk, and a tangy glaze. Easy drop cookies that capture the classic dessert."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/6956eef7-a4ce-47f6-aa51-746f48c67a0e/0_0.png"
 pubDate: "2026-07-26T20:22:26.000Z"
