@@ -1,7 +1,7 @@
 ---
 title: "Brownie Ice Cream Sundae: The Only Method You Need"
 meta: "Learn the one technique for a perfect brownie ice cream sundae: fudgy brownies, cold ice cream, and a warm sauce that never gets soggy."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/fc71f109-f882-4771-9328-b2e8d6f7e712/0_0.png"
 pubDate: "2026-06-26T21:36:39.000Z"
