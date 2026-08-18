@@ -1,7 +1,7 @@
 ---
 title: "Freezer Tomato Salsa: A Bold, Fresh-Tasting Make-Ahead Staple"
 meta: "Learn how to make freezer tomato salsa that tastes fresh, not watery. My technique keeps the ratio right and the flavor bold for months."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/8eef9465-0288-475f-8339-68a80df4791f/0_0.png"
 pubDate: "2026-07-30T08:31:41.000Z"
