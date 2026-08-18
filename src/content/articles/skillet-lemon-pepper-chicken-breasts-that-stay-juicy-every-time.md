@@ -1,7 +1,7 @@
 ---
 title: "Skillet Lemon Pepper Chicken Breasts That Stay Juicy Every Time"
 meta: "Learn how to make skillet lemon pepper chicken breasts that stay juicy, with a golden crust and bright citrus finish. Simple technique, real results."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/574f71f3-ba57-4a4b-8662-50d8f06c1c5c/0_0.png"
 pubDate: "2026-08-04T22:12:29.000Z"
