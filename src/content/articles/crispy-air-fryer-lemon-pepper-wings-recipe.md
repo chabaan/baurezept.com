@@ -3,11 +3,14 @@ title: "Crispy Air Fryer Lemon Pepper Wings Recipe"
 meta: "Learn how to make crispy air fryer lemon pepper wings with a tangy, buttery coating. No deep frying needed — just perfect golden wings every time."
 category: "Dinners & Main Dishes"
 author: "Ashley Brooks"
-image: "https://cdn.midjourney.com/6d431c59-9598-4858-bf20-0c7dbc6c48dd/0_0.png"
-pubDate: "2026-08-09T13:01:22.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/crispy-air-fryer-lemon-pepper-wings-reci.webp"
+pubDate: "2026-08-09T21:01:22Z"
+recipe: "{\"title\": \"Air Fryer Lemon Pepper Wings\", \"ingredients\": [\"2 pounds chicken wingettes and drumettes (about 20 pieces)\", \"1 tablespoon baking powder (aluminum-free)\", \"1 teaspoon kosher salt\", \"1/2 teaspoon garlic powder\", \"1/2 teaspoon onion powder\", \"1/4 teaspoon black pepper\", \"3 tablespoons unsalted butter\", \"2 teaspoons lemon zest (from 1 lemon)\", \"1 tablespoon fresh lemon juice\", \"1 1/2 tablespoons lemon pepper seasoning (store-bought or homemade, see notes)\"], \"instructions\": [\"Pat the chicken wings completely dry with paper towels. Moisture is the enemy of crispy skin — take an extra minute to blot every surface.\", \"In a large bowl, whisk together the baking powder, salt, garlic powder, onion powder, and black pepper.\", \"Add the dried wings to the bowl and toss thoroughly until each piece is evenly coated with the dry mixture. Let them rest for 5 minutes at room temperature.\", \"Preheat your air fryer to 400°F (200°C) for 3 minutes. If your model doesn't have a preheat setting, just run it empty for 3 minutes.\", \"Arrange the wings in a single layer in the air fryer basket — do not overcrowd. You may need to cook in two batches depending on the size of your air fryer.\", \"Air fry at 400°F for 12 minutes. Flip each wing with tongs, then cook for another 10 minutes until golden brown and the internal temperature reaches 165°F (74°C).\", \"While the wings cook, melt the butter in a small saucepan over low heat or in a microwave-safe bowl. Stir in the lemon zest, lemon juice, and lemon pepper seasoning.\", \"Transfer the hot wings to a large bowl, pour the lemon pepper butter mixture over them, and toss gently to coat evenly.\", \"Serve immediately while hot and crispy.\"], \"equipment\": [\"air fryer\", \"large mixing bowl\", \"paper towels\", \"tongs\", \"small saucepan (optional)\"], \"servings\": \"4\", \"prep_time\": \"10\", \"cook_time\": \"22\", \"total_time\": \"32\", \"calories\": \"320\"}"
 ---
 
 <p>The first thing you notice when these wings come out of the air fryer is the aroma — bright lemon zest cutting through warm butter, with a peppery kick that makes your nose tingle. The skin is shatter-crisp, not a hint of sogginess, and every bite carries that tangy, buttery coating that clings just right. These are the wings that disappear first at any table, and they come together in under 30 minutes with no deep frying.</p>
+<figure><img src="https://cdn.midjourney.com/6d431c59-9598-4858-bf20-0c7dbc6c48dd/0_2.png" alt="Raw chicken wings tossed with baking powder and seasoning in a glass mixing bowl" /></figure>
+
 
 <h2>Why the Air Fryer Makes Better Lemon Pepper Wings</h2>
 <p>Air fryers circulate superheated air at high speed, which does two critical things for chicken wings. First, it drives moisture off the surface rapidly — essential for crispy skin. Second, it browns the fat under the skin evenly without the need for a vat of oil. The result is wings that taste fried but feel lighter, with none of the greasy residue.</p>
@@ -44,3 +47,33 @@ pubDate: "2026-08-09T13:01:22.000Z"
 
 <h2>Takeaway: The Technique Matters More Than the Recipe</h2>
 <p>These air fryer lemon pepper wings are simple, but the details make the difference. Dry the chicken well, use the right amount of baking powder, don't crowd the basket, and add the lemon pepper after cooking. Do those four things, and you'll get wings that are crispy, juicy, and bursting with bright, peppery flavor every single time.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Why do you use baking powder on chicken wings?</h3>
+<p>Baking powder raises the skin's pH and creates tiny bubbles that crisp up beautifully in the air fryer. It's the same technique used for oven-fried wings — just make sure it's aluminum-free to avoid a metallic aftertaste.</p>
+<h3>Can I use frozen wings without thawing?</h3>
+<p>I don't recommend it. Frozen wings release too much moisture during cooking, which steams the skin instead of crisping it. Thaw completely in the refrigerator, then pat very dry before seasoning.</p>
+<h3>How do I store and reheat leftover lemon pepper wings?</h3>
+<p>Store leftovers in an airtight container in the fridge for up to 3 days. To reheat, place them in the air fryer at 375°F for 4-5 minutes — this brings back the crispiness much better than a microwave.</p>
+<h3>Is this recipe gluten-free?</h3>
+<p>Yes, as written. Baking powder is typically gluten-free, and the other ingredients are naturally free of gluten. Always check your lemon pepper seasoning label to confirm, as some blends may contain additives.</p>
+
+
+<!--WPRM Recipe 1607-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Air Fryer Lemon Pepper Wings</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/crispy-air-fryer-lemon-pepper-wings-reci-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		Crispy, tangy, and perfectly seasoned air fryer lemon pepper wings with a buttery finish. A quick and easy appetizer that's ready in under 30 minutes.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>air fryer</li><li>large mixing bowl</li><li>paper towels</li><li>tongs</li><li>small saucepan (optional)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>2 pounds chicken wingettes and drumettes (about 20 pieces)</li><li>1 tablespoon baking powder (aluminum-free)</li><li>1 teaspoon kosher salt</li><li>1/2 teaspoon garlic powder</li><li>1/2 teaspoon onion powder</li><li>1/4 teaspoon black pepper</li><li>3 tablespoons unsalted butter</li><li>2 teaspoons lemon zest (from 1 lemon)</li><li>1 tablespoon fresh lemon juice</li><li>1 1/2 tablespoons lemon pepper seasoning (store-bought or homemade, see notes)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Pat the chicken wings completely dry with paper towels. Moisture is the enemy of crispy skin — take an extra minute to blot every surface.</li><li>In a large bowl, whisk together the baking powder, salt, garlic powder, onion powder, and black pepper.</li><li>Add the dried wings to the bowl and toss thoroughly until each piece is evenly coated with the dry mixture. Let them rest for 5 minutes at room temperature.</li><li>Preheat your air fryer to 400°F (200°C) for 3 minutes. If your model doesn't have a preheat setting, just run it empty for 3 minutes.</li><li>Arrange the wings in a single layer in the air fryer basket — do not overcrowd. You may need to cook in two batches depending on the size of your air fryer.</li><li>Air fry at 400°F for 12 minutes. Flip each wing with tongs, then cook for another 10 minutes until golden brown and the internal temperature reaches 165°F (74°C).</li><li>While the wings cook, melt the butter in a small saucepan over low heat or in a microwave-safe bowl. Stir in the lemon zest, lemon juice, and lemon pepper seasoning.</li><li>Transfer the hot wings to a large bowl, pour the lemon pepper butter mixture over them, and toss gently to coat evenly.</li><li>Serve immediately while hot and crispy.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>Storage: Refrigerate leftovers in an airtight container for up to 3 days. Reheat in the air fryer at 375°F (180°C) for 4-5 minutes to restore crispiness. For a spicier version, add 1/4 teaspoon cayenne pepper to the dry rub. For a homemade lemon pepper seasoning, combine 2 tablespoons dried lemon zest with 1 tablespoon cracked black pepper and 1 teaspoon salt. This recipe contains dairy (butter) — substitute with a plant-based butter or oil for a dairy-free version. Always handle raw chicken carefully and wash hands, surfaces, and utensils thoroughly after contact. For safe cooking, ensure the internal temperature of the wings reaches 165°F (74°C).</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Appetizer</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
