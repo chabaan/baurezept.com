@@ -1,7 +1,7 @@
 ---
 title: "Pitcher Sangria Spritz: A Fizzy, Light Summer Sipper"
 meta: "Learn how to make a perfect Pitcher Sangria Spritz with a balance of fruit, wine, and soda. Get the ideal ratio and tips for a bubbly, crowd-pleasing drink."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/f0dc4275-1161-4cb4-ba8c-8ce36558b852/0_0.png"
 pubDate: "2026-08-08T13:49:12.000Z"
