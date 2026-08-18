@@ -1,7 +1,7 @@
 ---
 title: "Build the Perfect Ice Cream Sundae Bar Spread"
 meta: "Learn how to set up an ice cream sundae bar spread with tips on ratios, toppings, and technique. Easy DIY dessert bar for parties."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/2961b249-c7d0-4c0d-871d-e8a5879055d0/0_0.png"
 pubDate: "2026-07-22T12:35:34.000Z"
