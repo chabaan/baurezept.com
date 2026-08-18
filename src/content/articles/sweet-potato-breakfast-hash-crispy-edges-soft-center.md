@@ -1,7 +1,7 @@
 ---
 title: "Sweet Potato Breakfast Hash: Crispy Edges, Soft Center"
 meta: "Learn my method for sweet potato breakfast hash with perfectly crispy edges and tender insides. A simple, hearty skillet breakfast ready in 30 minutes."
-category: "Breakfast &amp; Brunch"
+category: "Breakfast & Brunch"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/1e38fab9-dd08-4126-98b9-920432d8d497/0_1.png"
 pubDate: "2026-06-30T22:32:58.000Z"
