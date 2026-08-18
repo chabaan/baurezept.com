@@ -1,7 +1,7 @@
 ---
 title: "Canning Garden Salsa: A Foolproof Method for Fresh Flavor All Year"
 meta: "Learn the safe, step-by-step method for canning garden salsa at home. This guide covers acidity, timing, and texture for a shelf-stable result."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/4aed8c06-9de6-4b00-9308-408af7d3ce30/0_1.png"
 pubDate: "2026-06-29T14:08:11.000Z"
