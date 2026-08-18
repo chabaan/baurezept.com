@@ -1,7 +1,7 @@
 ---
 title: "Creamy Cajun Chicken Pasta Recipe for Weeknights"
 meta: "Get a creamy Cajun chicken pasta that's bold and balanced. My trick: bloom the spice blend first for deeper flavor without the grit."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/0db522b1-fa66-4d6e-80fd-46e7defeb07c/0_0.png"
 pubDate: "2026-07-08T14:41:45.000Z"
