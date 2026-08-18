@@ -1,7 +1,7 @@
 ---
 title: "Greek Yogurt Lemon Cups: Tangy, Creamy, No-Bake Treat"
 meta: "Learn how to make Greek Yogurt Lemon Cups with a creamy, tangy filling and a crisp crust. Easy, no-bake, and perfect for a light dessert or breakfast."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/de25b269-f65a-4017-9bd9-2732eaa6308f/0_0.png"
 pubDate: "2026-07-21T13:37:48.000Z"
