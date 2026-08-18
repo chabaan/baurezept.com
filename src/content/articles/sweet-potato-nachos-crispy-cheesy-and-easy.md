@@ -1,7 +1,7 @@
 ---
 title: "Sweet Potato Nachos: Crispy, Cheesy, and Easy"
 meta: "Learn how to make sweet potato nachos with a foolproof method for crispy chips, melted cheese, and fresh toppings. Easy, crowd-pleasing recipe."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/d48626aa-484b-4aba-8f69-272f59b793e8/0_1.png"
 pubDate: "2026-07-19T19:44:27.000Z"
