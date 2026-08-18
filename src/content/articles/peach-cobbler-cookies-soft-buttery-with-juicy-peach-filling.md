@@ -1,7 +1,7 @@
 ---
 title: "Peach Cobbler Cookies: Soft, Buttery, with Juicy Peach Filling"
 meta: "Peach cobbler cookies with a soft vanilla base and a sweet, jammy peach center. My trick for preventing soggy cookies and getting that cobbler flavor."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/cd486c83-0e8a-4c85-abf6-f2d857cc051e/0_0.png"
 pubDate: "2026-07-11T22:18:22.000Z"
