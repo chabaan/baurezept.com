@@ -3,11 +3,14 @@ title: "Kid-Friendly Summer Snack Cups: Easy DIY Lunchbox Ideas"
 meta: "Make kid-friendly summer snack cups with a simple yogurt-to-crunch ratio. These DIY lunchbox ideas keep kids happy and full without the mess."
 category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
-image: "https://cdn.midjourney.com/2a365d41-3822-4880-8ccf-6576714d7637/0_0.png"
-pubDate: "2026-07-07T13:10:48.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/kid-friendly-summer-snack-cups-easy-diy-1-1.webp"
+pubDate: "2026-07-07T21:10:48Z"
+recipe: "{\"title\": \"DIY Yogurt &amp; Crunch Snack Cups\", \"ingredients\": [\"2 cups plain whole-milk yogurt (or Greek yogurt)\", \"2 tablespoons honey or maple syrup\", \"1/2 teaspoon vanilla extract\", \"1 cup crunchy granola (no large clusters, or crush them slightly)\", \"1/2 cup fresh berries (blueberries, raspberries, or chopped strawberries)\", \"1/4 cup mini chocolate chips or unsweetened coconut flakes (optional)\"], \"instructions\": [\"In a small bowl, whisk together the yogurt, honey, and vanilla until smooth. Taste and adjust sweetness if needed.\", \"To each cup, add 1/4 cup of the yogurt mixture as the bottom layer.\", \"Sprinkle 2 tablespoons of granola over the yogurt in each cup.\", \"Add 2 tablespoons of fresh berries on top of the granola.\", \"If using, sprinkle 1 tablespoon of chocolate chips or coconut over the berries.\", \"Repeat layers once more: another 1/4 cup yogurt, then remaining granola, berries, and any extras.\", \"Seal each cup with a lid and refrigerate for at least 30 minutes before serving. This lets the granola soften slightly without turning mushy.\"], \"equipment\": [\"4 small (6-ounce) cups or jars with lids\", \"small mixing bowl\", \"measuring spoons\", \"spoon for layering\"], \"servings\": \"4\", \"prep_time\": \"10\", \"cook_time\": null, \"total_time\": \"10\", \"calories\": \"180\"}"
 ---
 
 <p>There’s something about a hot summer afternoon that makes a cold, creamy snack feel like a little gift. When my own kids come running in from the sprinkler, sticky and grinning, they want something that cools them down fast — but also fills them up. That’s how these kid-friendly summer snack cups came together in my kitchen. They’re not just a treat; they’re a tool for keeping little hands busy and little bellies happy.</p>
+<figure><img src="https://cdn.midjourney.com/2a365d41-3822-4880-8ccf-6576714d7637/0_2.png" alt="Hands layering yogurt into a small cup with a spoon, with granola and berries in bowls nearby" /></figure>
+
 
 <p>The trick is in the ratio. I keep the yogurt-to-crunch ratio at 2:1 by volume — two parts creamy base to one part crunchy topping. That gives each cup enough structure to hold up in a lunchbox or on a picnic blanket, without turning into a soggy mess. And the best part? Kids can layer their own cups. It’s a no-cook activity that builds a snack they’ll actually eat.</p>
 
@@ -40,3 +43,33 @@ pubDate: "2026-07-07T13:10:48.000Z"
 
 <h2>A Quick Takeaway</h2>
 <p>These kid-friendly summer snack cups are more than a recipe — they’re a system. The 2:1 yogurt-to-crunch ratio gives you a blueprint you can repeat with different fruits, granolas, and add-ins all summer long. Cold, creamy, crunchy, and sweet enough to feel like a treat, they’ll disappear as fast as the kids can grab them. And that’s exactly the point.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>How long do these snack cups last in the fridge?</h3>
+<p>They stay fresh for up to 24 hours, but the granola will soften over time. For the best crunch, add granola just before serving or pack it separately.</p>
+<h3>Can I use flavored yogurt instead of plain?</h3>
+<p>Yes, but reduce or skip the added sweetener. Flavored yogurts often contain extra sugar, which can make the cups too sweet. I prefer plain so the kids can control the sweetness.</p>
+<h3>What are good nut-free granola options?</h3>
+<p>Look for granola made with oats, seeds (pumpkin, sunflower), and dried fruit. You can also make your own by baking oats with a little oil and maple syrup at 350°F for 10 minutes.</p>
+<h3>Can I make these dairy-free?</h3>
+<p>Absolutely. Use a thick dairy-free yogurt like coconut or oat-based. Just be sure it’s plain and unsweetened, then add honey or maple syrup to taste.</p>
+
+
+<!--WPRM Recipe 541-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">DIY Yogurt &amp; Crunch Snack Cups</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/kid-friendly-summer-snack-cups-easy-diy--150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		A simple, customizable snack cup with a creamy yogurt base and a crunchy topping layer, designed for kids to assemble or grab on the go.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>4 small (6-ounce) cups or jars with lids</li><li>small mixing bowl</li><li>measuring spoons</li><li>spoon for layering</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>2 cups plain whole-milk yogurt (or Greek yogurt)</li><li>2 tablespoons honey or maple syrup</li><li>1/2 teaspoon vanilla extract</li><li>1 cup crunchy granola (no large clusters, or crush them slightly)</li><li>1/2 cup fresh berries (blueberries, raspberries, or chopped strawberries)</li><li>1/4 cup mini chocolate chips or unsweetened coconut flakes (optional)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>In a small bowl, whisk together the yogurt, honey, and vanilla until smooth. Taste and adjust sweetness if needed.</li><li>To each cup, add 1/4 cup of the yogurt mixture as the bottom layer.</li><li>Sprinkle 2 tablespoons of granola over the yogurt in each cup.</li><li>Add 2 tablespoons of fresh berries on top of the granola.</li><li>If using, sprinkle 1 tablespoon of chocolate chips or coconut over the berries.</li><li>Repeat layers once more: another 1/4 cup yogurt, then remaining granola, berries, and any extras.</li><li>Seal each cup with a lid and refrigerate for at least 30 minutes before serving. This lets the granola soften slightly without turning mushy.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>For best texture, serve within 4 hours of making. If packing for later, store the granola separately and add just before eating. Keep cups chilled until serving. For nut-free options, use seed-based granola. For dairy-free, use coconut or oat yogurt. Always supervise young children with small berries and chocolate chips to prevent choking.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Snack</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
