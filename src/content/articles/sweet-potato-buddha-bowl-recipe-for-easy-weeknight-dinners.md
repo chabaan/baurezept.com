@@ -1,7 +1,7 @@
 ---
 title: "Sweet Potato Buddha Bowl Recipe for Easy Weeknight Dinners"
 meta: "Learn how to build a sweet potato buddha bowl with creamy tahini dressing. My technique for perfectly roasted sweet potatoes and balanced toppings."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/15764c1d-e3fa-488c-8acb-8f7d6fecac7c/0_1.png"
 pubDate: "2026-08-11T14:39:45.000Z"
