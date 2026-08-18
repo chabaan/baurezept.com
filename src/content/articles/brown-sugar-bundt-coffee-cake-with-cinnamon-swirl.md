@@ -1,7 +1,7 @@
 ---
 title: "Brown Sugar Bundt Coffee Cake with Cinnamon Swirl"
 meta: "Moist brown sugar bundt coffee cake with a buttery cinnamon swirl. Easy recipe with a secret tangy twist for a tender crumb every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/312d3698-0d83-4d8f-a9db-afeecd57a9f3/0_0.png"
 pubDate: "2026-08-06T14:47:01.000Z"
