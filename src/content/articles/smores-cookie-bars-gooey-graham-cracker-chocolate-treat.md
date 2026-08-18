@@ -1,7 +1,7 @@
 ---
 title: "S'mores Cookie Bars: Gooey Graham Cracker & Chocolate Treat"
 meta: "Get perfectly gooey s'mores cookie bars with a crisp graham crust, melty chocolate, and toasted marshmallow. My tested ratio for foolproof layers every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/59b2434d-001e-4125-93b9-05c434a8a110/0_1.png"
 pubDate: "2026-07-16T07:32:00.000Z"
