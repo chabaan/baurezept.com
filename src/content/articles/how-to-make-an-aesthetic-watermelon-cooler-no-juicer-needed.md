@@ -1,7 +1,7 @@
 ---
 title: "How to Make an Aesthetic Watermelon Cooler (No Juicer Needed)"
 meta: "Learn how to make an aesthetic watermelon cooler with a creamy texture and no juicer. This easy drink recipe uses a simple ratio for perfect flavor."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/b83fac62-ad0d-40c2-bf70-279199efec81/0_0.png"
 pubDate: "2026-08-07T19:10:09.000Z"
