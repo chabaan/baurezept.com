@@ -1,7 +1,7 @@
 ---
 title: "Greek Yogurt Coffee Cake Recipe – Moist & Tangy"
 meta: "Learn how to make Greek yogurt coffee cake with a tender crumb and nutty streusel. My ratio for a moist, tangy breakfast cake that stays fresh for days."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/973d187d-fe21-46cd-b71f-e26700720ed2/0_0.png"
 pubDate: "2026-07-23T13:04:59.000Z"
