@@ -1,7 +1,7 @@
 ---
 title: "Crispy Sweet Potato Tots with a Secret for Extra Crunch"
 meta: "Learn my easy method for sweet potato tots that stay crispy outside and tender inside. One simple swap makes all the difference in texture."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/875f8b9d-d69d-46f9-b6e6-bf53115be016/0_1.png"
 pubDate: "2026-07-24T14:15:03.000Z"
