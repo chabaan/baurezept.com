@@ -1,7 +1,7 @@
 ---
 title: "Lemon Cream Pie: Silky, Tangy, and No-Bake"
 meta: "Make a silky lemon cream pie with a buttery crust and bright citrus filling. Easy no-bake recipe with a simple technique for perfect texture every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/08c0edbe-3fc1-492a-ad99-52e48549d3e3/0_0.png"
 pubDate: "2026-07-03T07:55:00.000Z"
