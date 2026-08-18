@@ -1,7 +1,7 @@
 ---
 title: "Vodka Watermelon Cooler Recipe with Frozen Fruit Trick"
 meta: "Make a refreshing vodka watermelon cooler with a frozen fruit ice cube trick. No watering down, just pure flavor in every sip."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/88b7cb79-ee61-4467-a032-704f42968746/0_0.png"
 pubDate: "2026-07-06T19:45:19.000Z"
