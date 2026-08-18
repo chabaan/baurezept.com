@@ -1,7 +1,7 @@
 ---
 title: "Perfect Coffee Cake Loaf with Crumb Topping"
 meta: "Make a tender, buttery coffee cake loaf with a crisp crumb topping. This easy recipe uses a simple technique for the best texture every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/5d837774-bce1-4a7b-9f10-a4881da85a4e/0_0.png"
 pubDate: "2026-07-18T14:37:45.000Z"
