@@ -1,7 +1,7 @@
 ---
 title: "Sweet Potato Brownies: Fudgy, Not Cakey, Every Time"
 meta: "Learn how to make sweet potato brownies that are dense and fudgy, not cakey. My tested ratio of sweet potato to cocoa gives the best texture every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/b9a55f31-6acd-4b7f-956e-912c2aa78627/0_1.png"
 pubDate: "2026-08-14T14:51:48.000Z"
