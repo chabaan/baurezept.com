@@ -1,7 +1,7 @@
 ---
 title: "Perfect Roasted Sweet Potato Rounds: Crispy Edges Every Time"
 meta: "Learn how to make roasted sweet potato rounds with crispy edges and tender centers. My tested technique gives you perfect results every time."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/eb15fe61-f5a7-4a00-9fbb-1663dc6ead71/0_1.png"
 pubDate: "2026-06-28T20:41:15.000Z"
