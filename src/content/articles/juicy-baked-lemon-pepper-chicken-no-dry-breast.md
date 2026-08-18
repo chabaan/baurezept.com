@@ -1,7 +1,7 @@
 ---
 title: "Juicy Baked Lemon Pepper Chicken (No Dry Breast)"
 meta: "Learn how to make baked lemon pepper chicken that stays juicy. My simple method uses a butter bath and the right lemon-to-pepper ratio."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/7f02c8fc-4703-4b92-bf44-3e817509b7ab/0_0.png"
 pubDate: "2026-08-11T20:02:59.000Z"
