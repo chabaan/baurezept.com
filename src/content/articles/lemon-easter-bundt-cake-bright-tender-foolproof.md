@@ -1,7 +1,7 @@
 ---
 title: "Lemon Easter Bundt Cake: Bright, Tender & Foolproof"
 meta: "Bake a tender Lemon Easter Bundt Cake with a bright citrus glaze. Expert tips for a moist crumb, perfect rise, and no sticky pan."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/786c1bb7-697a-4ba4-9178-e1f1da0b513c/0_0.png"
 pubDate: "2026-07-26T14:07:20.000Z"
