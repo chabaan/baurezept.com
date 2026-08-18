@@ -1,7 +1,7 @@
 ---
 title: "Spicy Habanero Salsa Recipe with a Tangy Secret"
 meta: "Make a bold, fresh spicy habanero salsa at home. This recipe shares the exact ratio for heat, tang, and sweetness, plus a key technique tip."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/0d294a76-4470-46ab-b5f6-69183a7f54cc/0_0.png"
 pubDate: "2026-07-20T21:29:04.000Z"
