@@ -1,7 +1,7 @@
 ---
 title: "Peach Chia Pudding: Creamy No-Cook Breakfast"
 meta: "Learn how to make peach chia pudding with a creamy texture and ripe fruit. A simple no-cook breakfast with my ratio for perfect thickness every time."
-category: "Breakfast &amp; Brunch"
+category: "Breakfast & Brunch"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/9d4d28cd-a152-4e93-bdb3-ea9f757d6003/0_0.png"
 pubDate: "2026-08-01T12:43:30.000Z"
