@@ -1,7 +1,7 @@
 ---
 title: "Cooked Stovetop Salsa Roja: Bright, Smoky, and Ready in 20 Minutes"
 meta: "Learn how to make cooked stovetop salsa roja with a bright, smoky flavor. This easy method uses charred tomatoes and a simple ratio for perfect texture every ti"
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/63ffe2bd-ced2-40d1-8ad3-a0f41390a87e/0_1.png"
 pubDate: "2026-07-27T13:02:06.000Z"
