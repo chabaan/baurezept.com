@@ -1,7 +1,7 @@
 ---
 title: "Lemon Parmesan Pasta: Bright, Creamy, 20-Minute Dinner"
 meta: "Learn my technique for Lemon Parmesan Pasta that's creamy without heavy cream. A bright, tangy weeknight dinner ready in 20 minutes."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/2b558d9a-f231-4110-b3d5-f50aeb2839ae/0_1.png"
 pubDate: "2026-08-11T21:32:48.000Z"
