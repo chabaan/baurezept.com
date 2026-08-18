@@ -3,11 +3,14 @@ title: "Cooked Stovetop Salsa Roja: Bright, Smoky, and Ready in 20 Minutes"
 meta: "Learn how to make cooked stovetop salsa roja with a bright, smoky flavor. This easy method uses charred tomatoes and a simple ratio for perfect texture every ti"
 category: "Appetizers, Snacks & Sides"
 author: "Ryan Mitchell"
-image: "https://cdn.midjourney.com/63ffe2bd-ced2-40d1-8ad3-a0f41390a87e/0_1.png"
-pubDate: "2026-07-27T13:02:06.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/cooked-stovetop-salsa-roja-bright-smoky-.webp"
+pubDate: "2026-07-27T21:02:06Z"
+recipe: "{\"title\": \"Cooked Stovetop Salsa Roja\", \"ingredients\": [\"4 medium Roma tomatoes (about 1 pound)\", \"1/2 medium white onion (peeled and cut into 2 wedges)\", \"2 cloves garlic (peeled)\", \"1-2 dried guajillo chiles (stemmed and seeded (or 1-2 tablespoons guajillo chili powder))\", \"1 small dried árbol chile (stemmed (optional, for heat))\", \"1/2 teaspoon kosher salt (plus more to taste)\", \"1/4 teaspoon ground cumin\", \"1/2 cup water\", \"1 tablespoon fresh lime juice (from about 1/2 lime)\", \"2 tablespoons chopped fresh cilantro (optional, for garnish)\"], \"instructions\": [\"Heat a large dry skillet over medium-high heat for 2 minutes until hot. Place the tomatoes, onion wedges, and garlic cloves in the skillet. Cook, turning occasionally with tongs, until the skins are charred in spots and the vegetables are softened—about 8-10 minutes for tomatoes, 6-8 minutes for onion and garlic.\", \"While the vegetables char, toast the dried chiles in a separate small dry skillet over medium heat for 30-60 seconds per side, until fragrant and slightly puffed. Do not let them burn—they turn bitter instantly. Transfer to a bowl and cover with hot water; let soak for 5 minutes. Drain.\", \"Transfer the charred tomatoes, onion, and garlic to a blender or food processor. Add the soaked chiles, salt, cumin, and 1/4 cup of the water. Pulse until the salsa reaches your desired consistency—I prefer a slightly chunky texture with small visible pieces of tomato and onion. For a smoother salsa, blend continuously for 30 seconds.\", \"Pour the mixture back into the same skillet (no need to wash it—the residual char adds flavor). Place over medium heat and bring to a simmer. Cook, stirring occasionally, for 5 minutes. The salsa will darken slightly and the flavors will meld. If it seems too thick, add the remaining 1/4 cup water, 1 tablespoon at a time, until it's a spoonable consistency.\", \"Remove from heat. Stir in the lime juice and cilantro, if using. Taste and adjust salt. Let cool for 5 minutes before serving warm, or refrigerate to serve cold. The salsa will thicken as it cools.\"], \"equipment\": [\"large skillet (12-inch)\", \"chef's knife\", \"cutting board\", \"wooden spoon or spatula\", \"blender or food processor\", \"fine-mesh strainer (optional)\", \"measuring spoons\", \"tongs\"], \"servings\": \"4\", \"prep_time\": \"5\", \"cook_time\": \"15\", \"total_time\": \"20\", \"calories\": \"45\"}"
 ---
 
 <p>There's a moment when the tomatoes hit the hot skillet. A sharp sizzle, then the smell of smoke and sweetness rising together. That's the sound of good salsa roja in the making. This isn't a raw salsa—it's cooked stovetop salsa roja, where the heat transforms the tomatoes, onion, and garlic into something deeper and more complex. The char does the heavy lifting. It adds a smoky edge that no amount of roasting in the oven can quite match, and it happens in under 15 minutes.</p>
+<figure><img src="https://cdn.midjourney.com/63ffe2bd-ced2-40d1-8ad3-a0f41390a87e/0_3.png" alt="Charred tomatoes and onion wedges in a hot dry skillet, with blackened skin spots" /></figure>
+
 
 <h2>The Ratio That Works Every Time</h2>
 <p>The key to a balanced salsa roja is the ratio of tomato to chile to salt. I keep it at 4 parts tomato to 1 part onion, with a single guajillo chile for depth and a small árbol for a gentle warmth. That's it. The tomatoes provide the body and acidity, the onion brings sweetness, and the chiles add smoke and a mild heat that builds slowly. Salt ties it all together—start with 1/2 teaspoon and adjust at the end. You can always add more, but you can't take it out.</p>
@@ -32,3 +35,35 @@ pubDate: "2026-07-27T13:02:06.000Z"
 
 <h2>Final Takeaway</h2>
 <p>Cooked stovetop salsa roja is one of those recipes that rewards a little attention to technique. Char the vegetables properly, toast the chiles gently, and season in layers. The result is a salsa that's smoky, bright, and balanced—far better than anything from a jar. And it takes less time than you think.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Can I use canned tomatoes instead of fresh?</h3>
+<p>Yes, but the flavor will be less bright and smoky. Use one 14-ounce can of fire-roasted diced tomatoes, drained. Skip the charring step—just simmer the canned tomatoes with the other ingredients for 5 minutes. The texture will be smoother.</p>
+<h3>What if I can't find guajillo chiles?</h3>
+<p>Substitute with 1 tablespoon ancho chili powder or 2 dried New Mexico chiles. For a milder salsa, use only one guajillo and omit the árbol. For more heat, add a second árbol or a pinch of cayenne.</p>
+<h3>How do I make this salsa less watery?</h3>
+<p>After blending, simmer the salsa uncovered for an additional 3-5 minutes, stirring frequently, until it thickens to your liking. You can also strain out some of the tomato seeds and liquid before blending—press the charred tomatoes through a fine-mesh strainer, discarding the seeds and excess liquid.</p>
+<h3>Can I make this salsa ahead of time?</h3>
+<p>Absolutely. The flavors actually improve after a day in the fridge. Make it up to 3 days ahead, store in an airtight container, and reheat gently on the stovetop or serve cold. Stir in a splash of water if it thickens too much.</p>
+<h3>Is this salsa spicy?</h3>
+<p>It has a mild to medium heat, depending on the chiles you use. The guajillo is mostly smoky and fruity, not spicy. The árbol adds a moderate kick. For a mild version, omit the árbol and use only guajillo. For a hotter salsa, add a serrano or jalapeño during the charring step.</p>
+
+
+<!--WPRM Recipe 1396-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Cooked Stovetop Salsa Roja</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/cooked-stovetop-salsa-roja-bright-smoky--150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		A quick, smoky salsa roja made entirely on the stovetop—charred tomatoes, onion, and garlic simmered with chiles for a bright, balanced finish.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>large skillet (12-inch)</li><li>chef's knife</li><li>cutting board</li><li>wooden spoon or spatula</li><li>blender or food processor</li><li>fine-mesh strainer (optional)</li><li>measuring spoons</li><li>tongs</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>4 medium Roma tomatoes (about 1 pound)</li><li>1/2 medium white onion (peeled and cut into 2 wedges)</li><li>2 cloves garlic (peeled)</li><li>1-2 dried guajillo chiles (stemmed and seeded (or 1-2 tablespoons guajillo chili powder))</li><li>1 small dried árbol chile (stemmed (optional, for heat))</li><li>1/2 teaspoon kosher salt (plus more to taste)</li><li>1/4 teaspoon ground cumin</li><li>1/2 cup water</li><li>1 tablespoon fresh lime juice (from about 1/2 lime)</li><li>2 tablespoons chopped fresh cilantro (optional, for garnish)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Heat a large dry skillet over medium-high heat for 2 minutes until hot. Place the tomatoes, onion wedges, and garlic cloves in the skillet. Cook, turning occasionally with tongs, until the skins are charred in spots and the vegetables are softened—about 8-10 minutes for tomatoes, 6-8 minutes for onion and garlic.</li><li>While the vegetables char, toast the dried chiles in a separate small dry skillet over medium heat for 30-60 seconds per side, until fragrant and slightly puffed. Do not let them burn—they turn bitter instantly. Transfer to a bowl and cover with hot water; let soak for 5 minutes. Drain.</li><li>Transfer the charred tomatoes, onion, and garlic to a blender or food processor. Add the soaked chiles, salt, cumin, and 1/4 cup of the water. Pulse until the salsa reaches your desired consistency—I prefer a slightly chunky texture with small visible pieces of tomato and onion. For a smoother salsa, blend continuously for 30 seconds.</li><li>Pour the mixture back into the same skillet (no need to wash it—the residual char adds flavor). Place over medium heat and bring to a simmer. Cook, stirring occasionally, for 5 minutes. The salsa will darken slightly and the flavors will meld. If it seems too thick, add the remaining 1/4 cup water, 1 tablespoon at a time, until it's a spoonable consistency.</li><li>Remove from heat. Stir in the lime juice and cilantro, if using. Taste and adjust salt. Let cool for 5 minutes before serving warm, or refrigerate to serve cold. The salsa will thicken as it cools.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>Storage: Refrigerate in an airtight container for up to 5 days. The flavor deepens overnight. Freeze for up to 3 months—thaw in the fridge and reheat gently. Serving: Serve warm or at room temperature with tortilla chips, tacos, eggs, or grilled meats. Allergen note: This recipe is naturally free of common allergens (dairy, eggs, nuts, gluten). For specific dietary concerns, consult a qualified professional. Safety: Use caution when handling hot chiles—wear gloves if your skin is sensitive. The skillet and blender contents will be hot; let the blender cool slightly before blending, and hold the lid with a towel.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Appetizer, Condiment</div><div class="wprm-fallback-recipe-meta-cuisine">Mexican</div>	</div>
+</div>
+<!--End WPRM Recipe-->
