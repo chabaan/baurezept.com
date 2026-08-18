@@ -1,7 +1,7 @@
 ---
 title: "Easy 4-Ingredient Ice Cream Cake: No-Bake & Foolproof"
 meta: "Learn how to make an easy 4-ingredient ice cream cake with a crunchy cookie crust and creamy layers. No-bake, foolproof, and perfect for parties."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/d46dfd14-7454-4b7f-b13b-8ab6ec039f30/0_1.png"
 pubDate: "2026-08-15T21:18:43.000Z"
