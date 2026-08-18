@@ -1,7 +1,7 @@
 ---
 title: "Lemon Curd Tarts: Bright, Buttery, and Foolproof"
 meta: "Learn to make fresh lemon curd tarts with a crisp shell and bright, tangy filling. This guide shares the technique for perfect curd every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/4ca868e7-a75a-4830-a1d6-944cbebca5b2/0_0.png"
 pubDate: "2026-07-17T19:32:53.000Z"
