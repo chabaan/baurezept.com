@@ -1,7 +1,7 @@
 ---
 title: "How to Make an Aesthetic Swirl Sundae That Holds Its Shape"
 meta: "Learn the technique for an aesthetic swirl sundae with a stable, tall swirl. Perfect whipped cream ratio and piping tip for a dessert that looks as good as it t"
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/e082b585-8058-4512-b815-c11a81670854/0_0.png"
 pubDate: "2026-08-09T13:47:50.000Z"
