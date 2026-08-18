@@ -1,7 +1,7 @@
 ---
 title: "Summer Foil-Pack Dinner: Easy One-Pan Meals"
 meta: "Make a summer foil-pack dinner with juicy chicken and fresh veggies. Quick cleanup, perfect for grilling or baking."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/2ee1471e-ef90-413e-8032-b67f8899d83f/0_1.png"
 pubDate: "2026-07-10T12:11:56.000Z"
