@@ -1,7 +1,7 @@
 ---
 title: "The Easiest Ice Cream Sandwich Cake Recipe (No-Bake)"
 meta: "Learn how to make a no-bake ice cream sandwich cake with a perfect fudge-to-whipped-cream ratio. Easy, crowd-pleasing dessert for any party."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/8aa74e56-05bb-48f0-bcc1-de0bb33a61a2/0_0.png"
 pubDate: "2026-07-13T12:44:00.000Z"
