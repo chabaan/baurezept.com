@@ -1,7 +1,7 @@
 ---
 title: "Rainbow Sprinkle Cookies: Soft, Buttery & Foolproof"
 meta: "Learn to make rainbow sprinkle cookies that stay soft and buttery. My precise ratio and technique ensure perfect, not-too-sweet cookies every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/13b3dcba-822b-450a-b858-ca5d11020c17/0_0.png"
 pubDate: "2026-07-15T08:17:23.000Z"
