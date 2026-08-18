@@ -1,7 +1,7 @@
 ---
 title: "Summer Fruit Pizza: Easy Dessert with a Creamy Base"
 meta: "Learn how to make a stunning summer fruit pizza with a crisp sugar cookie crust and creamy no-bake filling. A simple, crowd-pleasing dessert."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/97a9193d-2968-477e-ae61-7535363b6f23/0_0.png"
 pubDate: "2026-07-20T13:19:51.000Z"
