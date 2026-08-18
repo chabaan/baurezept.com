@@ -1,7 +1,7 @@
 ---
 title: "Lemon Pepper Chicken Breast That Stays Juicy Every Time"
 meta: "Learn how to make lemon pepper chicken breast with a golden crust and juicy interior. My technique keeps it tender without drying out."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/da6f0fdd-2da0-42e7-a0e3-05d561dc738b/0_0.png"
 pubDate: "2026-07-04T21:42:36.000Z"
