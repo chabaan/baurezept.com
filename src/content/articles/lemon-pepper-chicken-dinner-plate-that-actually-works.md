@@ -1,7 +1,7 @@
 ---
 title: "Lemon Pepper Chicken Dinner Plate That Actually Works"
 meta: "Learn how to build a lemon pepper chicken dinner plate with juicy pan-seared chicken, bright lemon pepper flavor, and easy sides. Real technique from a home coo"
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/4e46b09b-412a-4d07-a2d9-7893bf58b8b4/0_0.png"
 pubDate: "2026-07-24T19:46:08.000Z"
