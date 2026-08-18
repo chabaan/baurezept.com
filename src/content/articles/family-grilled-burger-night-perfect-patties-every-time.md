@@ -1,7 +1,7 @@
 ---
 title: "Family Grilled Burger Night: Perfect Patties Every Time"
 meta: "Master family grilled burger night with my tips for juicy patties, perfect buns, and a foolproof smash technique that locks in flavor."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/6f559752-9fa6-4bc3-b985-e13203441753/0_0.png"
 pubDate: "2026-07-18T20:53:36.000Z"
