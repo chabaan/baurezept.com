@@ -1,7 +1,7 @@
 ---
 title: "Build a Summer Snack Board That Actually Stays Fresh"
 meta: "Learn how to build a summer snack board that stays crisp and cool. Tips on ratios, timing, and ingredient combos for effortless entertaining."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/7b418b9d-66ef-4d6d-9ac7-b73934253262/0_1.png"
 pubDate: "2026-08-13T07:09:30.000Z"
