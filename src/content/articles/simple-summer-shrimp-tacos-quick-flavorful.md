@@ -1,7 +1,7 @@
 ---
 title: "Simple Summer Shrimp Tacos: Quick & Flavorful"
 meta: "Make simple summer shrimp tacos with a bright, no-cook salsa and a key technique for perfectly seasoned shrimp. Ready in 20 minutes."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/78240d4c-c50f-409e-a772-1b1217228271/0_0.png"
 pubDate: "2026-08-04T22:20:00.000Z"
