@@ -1,7 +1,7 @@
 ---
 title: "Classic Homemade Salsa That Beats Any Store-Bought Jar"
 meta: "Learn how to make classic homemade salsa with a simple roasted tomato technique. This fresh, chunky salsa is perfect for chips, tacos, and more."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/66607420-9b92-46bf-b612-fc12b036ec9f/0_0.png"
 pubDate: "2026-07-30T13:35:46.000Z"
