@@ -1,7 +1,7 @@
 ---
 title: "Watermelon Slice Cookies: Easy Sugar Cookies That Look Like Summer"
 meta: "Learn how to make watermelon slice cookies with a simple sugar cookie base, no artificial colors, and a clever decorating trick that keeps edges crisp."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/e0d9f8ad-97ae-4b37-aa04-34a7bc8f0d0a/0_1.png"
 pubDate: "2026-07-20T13:54:50.000Z"
