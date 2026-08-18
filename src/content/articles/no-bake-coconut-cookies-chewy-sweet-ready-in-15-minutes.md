@@ -1,7 +1,7 @@
 ---
 title: "No-Bake Coconut Cookies: Chewy, Sweet & Ready in 15 Minutes"
 meta: "Learn my trick for perfectly chewy no-bake coconut cookies. A simple 5-ingredient recipe with a foolproof technique that sets up every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/1f4aac38-c35a-4052-a127-0cfbcc2fb047/0_1.png"
 pubDate: "2026-08-03T21:32:44.000Z"
