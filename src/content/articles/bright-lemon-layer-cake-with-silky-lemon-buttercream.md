@@ -1,7 +1,7 @@
 ---
 title: "Bright Lemon Layer Cake with Silky Lemon Buttercream"
 meta: "Make a tender Lemon Layer Cake from scratch with a secret ratio that keeps it moist. Includes my tangy lemon buttercream and a foolproof curd filling."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/0306238d-b5b2-44f2-ac24-8b7c374bfbb7/0_0.png"
 pubDate: "2026-07-31T14:35:37.000Z"
