@@ -1,7 +1,7 @@
 ---
 title: "How to Make Ice Cream Cake Pops That Won't Melt or Crack"
 meta: "Learn the exact technique for ice cream cake pops that stay firm, don't crack, and taste amazing. My ratio and method ensure success every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/49143454-bb6b-496f-90e4-983317fb6134/0_0.png"
 pubDate: "2026-07-30T14:57:19.000Z"
