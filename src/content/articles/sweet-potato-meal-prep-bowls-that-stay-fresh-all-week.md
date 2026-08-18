@@ -1,7 +1,7 @@
 ---
 title: "Sweet Potato Meal-Prep Bowls That Stay Fresh All Week"
 meta: "Learn how to build sweet potato meal-prep bowls with a simple roasting trick that keeps textures separate and flavors bold for days."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/4e36060f-2084-476c-8ffe-f9a7da3465fa/0_0.png"
 pubDate: "2026-08-14T21:50:38.000Z"
