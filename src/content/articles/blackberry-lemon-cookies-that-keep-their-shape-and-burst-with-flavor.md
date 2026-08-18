@@ -1,7 +1,7 @@
 ---
 title: "Blackberry Lemon Cookies That Keep Their Shape and Burst with Flavor"
 meta: "Learn how to make blackberry lemon cookies with a stable jam core and bright citrus glaze. Expert tips on fruit ratio, dough chilling, and even baking."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/99fa1488-da89-4fa8-9a7c-8b5414ea9c7e/0_0.png"
 pubDate: "2026-07-14T13:02:22.000Z"
