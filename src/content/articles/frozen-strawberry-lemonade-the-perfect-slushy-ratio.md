@@ -1,7 +1,7 @@
 ---
 title: "Frozen Strawberry Lemonade: The Perfect Slushy Ratio"
 meta: "Learn the secret ratio for a perfectly slushy frozen strawberry lemonade. No ice crystals, just bold berry-lemon flavor in every sip."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/cf6b5384-d13f-46ee-a54f-13208f7b6768/0_1.png"
 pubDate: "2026-07-02T08:13:43.000Z"
