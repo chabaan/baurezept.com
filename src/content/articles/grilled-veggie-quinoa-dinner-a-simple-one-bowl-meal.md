@@ -1,7 +1,7 @@
 ---
 title: "Grilled Veggie Quinoa Dinner: A Simple One-Bowl Meal"
 meta: "Learn how to make a grilled veggie quinoa dinner with a smoky char and tangy lemon vinaigrette. Perfectly cooked quinoa and tender vegetables in under 40 minute"
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/75969470-c539-46ba-96e5-21c8a543d30d/0_0.png"
 pubDate: "2026-07-31T14:55:11.000Z"
