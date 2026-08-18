@@ -1,7 +1,7 @@
 ---
 title: "Sprite Cherry Limeade: The Perfect Fizzy Summer Drink"
 meta: "Learn how to make the best Sprite cherry limeade at home with fresh cherries and lime. This easy recipe delivers a balanced sweet-tart fizz every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/1d9ca61a-9e87-48c6-8538-5b7e90030ef8/0_1.png"
 pubDate: "2026-08-14T22:48:59.000Z"
