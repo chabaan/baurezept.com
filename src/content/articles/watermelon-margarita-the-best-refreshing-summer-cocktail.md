@@ -1,7 +1,7 @@
 ---
 title: "Watermelon Margarita: The Best Refreshing Summer Cocktail"
 meta: "Learn how to make a watermelon margarita with fresh watermelon, lime, and tequila. Expert tips for the perfect balance and texture."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/55ccb3e2-c974-48ad-8f5b-d58007a31ace/0_1.png"
 pubDate: "2026-07-09T21:35:49.000Z"
