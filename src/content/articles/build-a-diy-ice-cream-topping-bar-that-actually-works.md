@@ -1,7 +1,7 @@
 ---
 title: "Build a DIY Ice Cream Topping Bar That Actually Works"
 meta: "Learn how to set up a DIY ice cream topping bar with smart ratios, texture tricks, and easy prep tips for a crowd-pleasing dessert station."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/fa6cf388-bdf6-4428-ac8f-79187adc5a28/0_1.png"
 pubDate: "2026-08-15T08:05:35.000Z"
