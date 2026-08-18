@@ -1,7 +1,7 @@
 ---
 title: "Watermelon Cucumber Salad with Feta and Mint"
 meta: "Get the secret to a non-soggy watermelon cucumber salad. My step-by-step method keeps cubes crisp and the dressing bright."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/c78431a5-c7dd-490f-9b36-07a0f698236b/0_0.png"
 pubDate: "2026-07-25T07:58:38.000Z"
