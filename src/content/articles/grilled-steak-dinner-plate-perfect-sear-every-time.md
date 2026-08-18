@@ -1,7 +1,7 @@
 ---
 title: "Grilled Steak Dinner Plate: Perfect Sear Every Time"
 meta: "Learn how to build a grilled steak dinner plate with a perfect sear, resting technique, and a simple pan sauce. Reliable results every time."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/82e6b80a-9c03-4315-913e-c4e1ed41828b/0_0.png"
 pubDate: "2026-07-07T08:54:15.000Z"
