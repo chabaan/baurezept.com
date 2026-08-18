@@ -1,7 +1,7 @@
 ---
 title: "Classic Peach Cobbler with a Buttermilk Biscuit Topping"
 meta: "Learn how to make classic peach cobbler with a tangy buttermilk biscuit topping. Expert tips on peach selection, thickener ratios, and achieving a golden crust."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/70e5227f-53cb-49be-9dc5-a5e46fb2e41f/0_0.png"
 pubDate: "2026-07-12T08:42:16.000Z"
