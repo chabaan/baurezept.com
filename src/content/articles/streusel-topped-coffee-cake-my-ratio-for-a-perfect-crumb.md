@@ -3,11 +3,14 @@ title: "Streusel-Topped Coffee Cake: My Ratio for a Perfect Crumb"
 meta: "Learn my streusel-topped coffee cake recipe with a secret ratio for a tender crumb that stays moist for days. Easy, buttery, and perfect for breakfast."
 category: "Desserts & Drinks"
 author: "Emily Carter"
-image: "https://cdn.midjourney.com/dd20c840-dc30-46f4-8c2d-c3d1834dc1ea/0_0.png"
-pubDate: "2026-07-22T14:28:33.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/streusel-topped-coffee-cake-my-ratio-for-1.webp"
+pubDate: "2026-07-22T22:28:33Z"
+recipe: "{\"title\": \"Streusel-Topped Coffee Cake\", \"ingredients\": [\"For the streusel topping: 1/2 cup (100g packed light brown sugar)\", \"For the streusel topping: 1/2 cup (65g all-purpose flour)\", \"For the streusel topping: 1/2 cup (113g unsalted butter, cold and cut into small cubes)\", \"For the streusel topping: 1 teaspoon ground cinnamon\", \"For the cake: 1 1/2 cups (195g all-purpose flour)\", \"For the cake: 1/2 teaspoon baking soda\", \"For the cake: 1/2 teaspoon baking powder\", \"For the cake: 1/4 teaspoon salt\", \"For the cake: 1/2 cup (113g unsalted butter, softened)\", \"For the cake: 3/4 cup (150g granulated sugar)\", \"For the cake: 2 large eggs (at room temperature)\", \"For the cake: 1 teaspoon vanilla extract\", \"For the cake: 1/2 cup (120ml sour cream, at room temperature)\"], \"instructions\": [\"Preheat the oven to 350°F (175°C). Grease a 9x9-inch baking pan with butter or line with parchment paper.\", \"Make the streusel: In a medium bowl, whisk together the brown sugar, 1/2 cup flour, and cinnamon. Add the cold butter cubes. Use your fingertips or a pastry cutter to work the butter into the flour mixture until it forms clumps ranging from pea-sized to small pebbles. Don't overmix—some larger clumps are good. Set aside in the refrigerator.\", \"Make the cake: In a small bowl, whisk together 1 1/2 cups flour, baking soda, baking powder, and salt.\", \"In a large bowl, beat the softened butter and granulated sugar with an electric mixer on medium speed until light and fluffy, about 2-3 minutes. Scrape down the sides.\", \"Add the eggs one at a time, beating well after each addition. Beat in the vanilla.\", \"With the mixer on low, add half of the flour mixture, then the sour cream, then the remaining flour mixture. Mix just until combined—stop as soon as you see no more streaks of flour. Do not overmix or the cake will be tough.\", \"Spread the batter evenly into the prepared pan. It will be thick. Sprinkle the streusel topping evenly over the batter, covering every bit.\", \"Bake for 35-40 minutes, until a toothpick inserted into the center comes out clean or with a few moist crumbs. The top should be golden brown and the streusel will look set. If the topping is browning too quickly after 20 minutes, tent loosely with foil.\", \"Cool in the pan on a wire rack for at least 20 minutes before slicing. Serve warm or at room temperature.\"], \"equipment\": [\"9x9-inch baking pan\", \"mixing bowls\", \"whisk\", \"rubber spatula\", \"cooling rack\"], \"servings\": \"9\", \"prep_time\": \"20\", \"cook_time\": \"40\", \"total_time\": \"60\", \"calories\": \"380\"}"
 ---
 
 <p>The smell of a streusel-topped coffee cake baking is one of those simple pleasures that fills the whole kitchen with warmth. That buttery, cinnamon-scented topping crackling as it sets, the tender crumb underneath waiting to soak up your morning coffee. I've tested this recipe dozens of times to nail the ideal balance: a cake that's moist enough to stay good for three days, with a streusel that actually stays crunchy, not a sad, soggy blanket.</p>
+<figure><img src="https://cdn.midjourney.com/dd20c840-dc30-46f4-8c2d-c3d1834dc1ea/0_2.png" alt="Hands using fingertips to mix cold butter into brown sugar and flour for streusel topping." /></figure>
+
 
 <h2>The 1:1:1 Streusel Ratio That Never Fails</h2>
 <p>The secret to a great streusel-topped coffee cake is in the proportions. My go-to ratio is equal parts by weight of brown sugar, all-purpose flour, and cold butter. That's 1/2 cup (100g) brown sugar, 1/2 cup (65g) flour, and 1/2 cup (113g) butter. The cold butter is non-negotiable. If it's even slightly soft, you'll end up with a paste that bakes into a hard, greasy crust instead of those lovely, craggy clumps.</p>
@@ -28,3 +31,33 @@ pubDate: "2026-07-22T14:28:33.000Z"
 
 <h2>Takeaway</h2>
 <p>This streusel-topped coffee cake is the kind of recipe you'll make again and again. The 1:1:1 ratio for the topping is easy to remember, and the sour cream batter delivers a reliably tender crumb. Whether you serve it for a weekend brunch or a weekday treat with your coffee, it's simple, honest baking that works.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Why is my streusel topping not crunchy?</h3>
+<p>The most common reason is that the butter was too soft when you mixed it. The butter must be cold straight from the fridge. Also, let the cake cool completely on a wire rack before covering—trapping steam makes the streusel soggy. If you want extra crunch, sprinkle a tablespoon of turbinado sugar over the top before baking.</p>
+<h3>Can I use a different pan size?</h3>
+<p>Yes, but adjust the time. A 9x13-inch pan will give a thinner cake that bakes in about 25-30 minutes. An 8x8-inch pan will need 5-10 minutes more. Do not use a round cake pan without adjusting the batter depth, as the edges may overbake.</p>
+<h3>Can I make this coffee cake gluten-free?</h3>
+<p>Yes, substitute the all-purpose flour with a 1:1 gluten-free baking flour blend that contains xanthan gum. The texture will be slightly more tender and crumbly, but still delicious. Be sure to check your blend's instructions for any additional liquid adjustments.</p>
+<h3>What if I don't have sour cream?</h3>
+<p>You can substitute plain full-fat yogurt or buttermilk (use 1/2 cup buttermilk and reduce the baking powder to 1/4 teaspoon). The sour cream adds moisture and a slight tang—yogurt works best. Do not use low-fat or nonfat versions, as they will make the cake dry.</p>
+
+
+<!--WPRM Recipe 825-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Streusel-Topped Coffee Cake</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/streusel-topped-coffee-cake-my-ratio-for-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		A tender, buttery sour cream coffee cake with a thick, crunchy streusel topping that stays crisp. My 1:1:1 ratio for the streusel ensures the perfect crumb every time.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>9x9-inch baking pan</li><li>mixing bowls</li><li>whisk</li><li>rubber spatula</li><li>cooling rack</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>For the streusel topping: 1/2 cup (100g packed light brown sugar)</li><li>For the streusel topping: 1/2 cup (65g all-purpose flour)</li><li>For the streusel topping: 1/2 cup (113g unsalted butter, cold and cut into small cubes)</li><li>For the streusel topping: 1 teaspoon ground cinnamon</li><li>For the cake: 1 1/2 cups (195g all-purpose flour)</li><li>For the cake: 1/2 teaspoon baking soda</li><li>For the cake: 1/2 teaspoon baking powder</li><li>For the cake: 1/4 teaspoon salt</li><li>For the cake: 1/2 cup (113g unsalted butter, softened)</li><li>For the cake: 3/4 cup (150g granulated sugar)</li><li>For the cake: 2 large eggs (at room temperature)</li><li>For the cake: 1 teaspoon vanilla extract</li><li>For the cake: 1/2 cup (120ml sour cream, at room temperature)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Preheat the oven to 350°F (175°C). Grease a 9x9-inch baking pan with butter or line with parchment paper.</li><li>Make the streusel: In a medium bowl, whisk together the brown sugar, 1/2 cup flour, and cinnamon. Add the cold butter cubes. Use your fingertips or a pastry cutter to work the butter into the flour mixture until it forms clumps ranging from pea-sized to small pebbles. Don't overmix—some larger clumps are good. Set aside in the refrigerator.</li><li>Make the cake: In a small bowl, whisk together 1 1/2 cups flour, baking soda, baking powder, and salt.</li><li>In a large bowl, beat the softened butter and granulated sugar with an electric mixer on medium speed until light and fluffy, about 2-3 minutes. Scrape down the sides.</li><li>Add the eggs one at a time, beating well after each addition. Beat in the vanilla.</li><li>With the mixer on low, add half of the flour mixture, then the sour cream, then the remaining flour mixture. Mix just until combined—stop as soon as you see no more streaks of flour. Do not overmix or the cake will be tough.</li><li>Spread the batter evenly into the prepared pan. It will be thick. Sprinkle the streusel topping evenly over the batter, covering every bit.</li><li>Bake for 35-40 minutes, until a toothpick inserted into the center comes out clean or with a few moist crumbs. The top should be golden brown and the streusel will look set. If the topping is browning too quickly after 20 minutes, tent loosely with foil.</li><li>Cool in the pan on a wire rack for at least 20 minutes before slicing. Serve warm or at room temperature.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>Storage: Cover leftover coffee cake tightly with foil and store at room temperature for up to 3 days. To re-crisp the streusel, warm slices in a 300°F oven for 5 minutes. Freeze the whole cake (unfrosted) wrapped in plastic and foil for up to 2 months. Common allergens: Contains wheat (gluten), dairy (butter, sour cream), and eggs. For a dairy-free version, substitute the butter with a plant-based butter and the sour cream with a dairy-free yogurt or coconut cream. For egg-free, use a flax egg (1 tablespoon ground flaxseed + 3 tablespoons water per egg). Always consult a qualified professional for specific dietary needs.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Breakfast</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
