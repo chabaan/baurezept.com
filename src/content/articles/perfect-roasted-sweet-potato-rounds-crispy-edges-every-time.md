@@ -3,11 +3,14 @@ title: "Perfect Roasted Sweet Potato Rounds: Crispy Edges Every Time"
 meta: "Learn how to make roasted sweet potato rounds with crispy edges and tender centers. My tested technique gives you perfect results every time."
 category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
-image: "https://cdn.midjourney.com/eb15fe61-f5a7-4a00-9fbb-1663dc6ead71/0_1.png"
-pubDate: "2026-06-28T20:41:15.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/perfect-roasted-sweet-potato-rounds-cris-3.webp"
+pubDate: "2026-06-29T04:41:15Z"
+recipe: "{\"title\": \"Roasted Sweet Potato Rounds\", \"ingredients\": [\"2 medium sweet potatoes (about 1 1/2 pounds total)\", \"2 tablespoons olive oil\", \"1/2 teaspoon kosher salt\", \"1/4 teaspoon black pepper\", \"1/2 teaspoon smoked paprika (optional)\", \"1/4 teaspoon garlic powder (optional)\"], \"instructions\": [\"Preheat your oven to 425°F (220°C). Line a baking sheet with parchment paper.\", \"Scrub the sweet potatoes clean. Do not peel them—the skin helps hold the rounds together and adds fiber.\", \"Using a sharp knife, slice the sweet potatoes into even 1/2-inch thick rounds. Uniform thickness is key for even cooking.\", \"Place the rounds in a large bowl. Drizzle with olive oil and sprinkle with salt, pepper, and any optional spices. Toss gently to coat each round evenly.\", \"Arrange the rounds in a single layer on the prepared baking sheet. Do not overcrowd—leave a little space between each round so steam can escape. Use two sheets if needed.\", \"Roast for 12 minutes. Flip each round with a spatula, then continue roasting for another 10–13 minutes, until the edges are golden brown and crispy, and the centers are tender when pierced with a fork.\", \"Remove from the oven and let rest on the sheet for 2 minutes. Serve warm.\"], \"equipment\": [\"baking sheet\", \"parchment paper\", \"sharp knife\", \"cutting board\", \"large bowl\"], \"servings\": \"4\", \"prep_time\": \"10\", \"cook_time\": \"25\", \"total_time\": \"35\", \"calories\": \"180\"}"
 ---
 
 <p>The smell of sweet potatoes roasting in a hot oven is one of those simple kitchen pleasures that never gets old. As they cook, the natural sugars caramelize, the edges turn deep golden brown, and the centers become tender and creamy. Getting that perfect balance—crispy on the outside, soft on the inside—comes down to a few key choices.</p>
+<figure><img src="https://cdn.midjourney.com/eb15fe61-f5a7-4a00-9fbb-1663dc6ead71/0_3.png" alt="Raw sweet potato rounds tossed with olive oil and spices in a bowl" /></figure>
+
 
 <h2>Why This Method Works</h2>
 <p>I keep the ratio at 1 tablespoon of oil per medium sweet potato. That's enough to encourage browning without making the rounds greasy. The 425°F temperature is hot enough to drive off surface moisture quickly, which is what creates those crispy edges. And leaving the skin on? That's not just about convenience. The skin acts like a little frame that helps each round hold its shape as it roasts.</p>
@@ -48,3 +51,34 @@ pubDate: "2026-06-28T20:41:15.000Z"
 
 <h2>Takeaway</h2>
 <p>Roasted sweet potato rounds are one of those dishes that looks impressive but comes together with minimal effort once you know the technique. High heat, enough space on the pan, and a simple seasoning are all you need. The next time you're staring at a sweet potato wondering what to do with it, this is your answer.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>How do I get sweet potato rounds crispy instead of soft?</h3>
+<p>The two biggest factors are high heat (425°F) and not overcrowding the pan. Give each round space so steam escapes, and flip them halfway through. Leaving the skin on also helps the rounds hold their shape and crisp up.</p>
+<h3>Do I need to peel sweet potatoes for roasted rounds?</h3>
+<p>No—I recommend leaving the skin on. It helps the rounds stay intact during roasting and adds extra fiber and nutrients. Just scrub them well before slicing.</p>
+<h3>Can I make these ahead of time?</h3>
+<p>Yes. Roast them as directed, then cool completely and store in the fridge. Reheat in a 350°F oven or air fryer for about 5 minutes to bring back the crispness. They won't be quite as crispy as fresh, but still very good.</p>
+<h3>What spices go well with roasted sweet potato rounds?</h3>
+<p>Smoked paprika, garlic powder, cumin, chili powder, or a pinch of cayenne all work beautifully. For a sweeter version, try a sprinkle of cinnamon and a tiny pinch of nutmeg.</p>
+
+
+<!--WPRM Recipe 122-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Roasted Sweet Potato Rounds</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/perfect-roasted-sweet-potato-rounds-cris-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		Crispy-edged, tender-centered sweet potato rounds roasted to perfection with a simple seasoning blend. A versatile side dish for any meal.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>baking sheet</li><li>parchment paper</li><li>sharp knife</li><li>cutting board</li><li>large bowl</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>2 medium sweet potatoes (about 1 1/2 pounds total)</li><li>2 tablespoons olive oil</li><li>1/2 teaspoon kosher salt</li><li>1/4 teaspoon black pepper</li><li>1/2 teaspoon smoked paprika (optional)</li><li>1/4 teaspoon garlic powder (optional)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Preheat your oven to 425°F (220°C). Line a baking sheet with parchment paper.</li><li>Scrub the sweet potatoes clean. Do not peel them—the skin helps hold the rounds together and adds fiber.</li><li>Using a sharp knife, slice the sweet potatoes into even 1/2-inch thick rounds. Uniform thickness is key for even cooking.</li><li>Place the rounds in a large bowl. Drizzle with olive oil and sprinkle with salt, pepper, and any optional spices. Toss gently to coat each round evenly.</li><li>Arrange the rounds in a single layer on the prepared baking sheet. Do not overcrowd—leave a little space between each round so steam can escape. Use two sheets if needed.</li><li>Roast for 12 minutes. Flip each round with a spatula, then continue roasting for another 10–13 minutes, until the edges are golden brown and crispy, and the centers are tender when pierced with a fork.</li><li>Remove from the oven and let rest on the sheet for 2 minutes. Serve warm.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>Storage: Keep leftovers in an airtight container in the refrigerator for up to 4 days. Reheat in a 350°F oven or air fryer for 5 minutes to restore crispness. Not recommended for freezing.</p>
+<p>Allergen note: This recipe is naturally gluten-free, dairy-free, egg-free, and nut-free. Always check spice labels for cross-contamination if you have severe allergies. For specific dietary concerns, consult a qualified professional.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Side Dish</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
