@@ -1,7 +1,7 @@
 ---
 title: "Lemon Sheet Cake for a Crowd: Tender, Tangy, Foolproof"
 meta: "Make a moist lemon sheet cake for a crowd with my foolproof method. Zesty, tender, and easy to slice—perfect for potlucks and parties."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/83e72dcb-1abd-4a90-8b03-3bb34e4bb30c/0_0.png"
 pubDate: "2026-08-01T09:50:32.000Z"
