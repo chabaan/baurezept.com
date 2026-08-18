@@ -1,7 +1,7 @@
 ---
 title: "Fresh Peach Galette Recipe: Easy Rustic Summer Dessert"
 meta: "Make a fresh peach galette with a flaky, buttery crust and juicy peach filling. This easy rustic tart is the perfect summer dessert for any occasion."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/01f5444e-bf41-4434-8e0a-383cc0e36847/0_0.png"
 pubDate: "2026-07-19T12:30:39.000Z"
