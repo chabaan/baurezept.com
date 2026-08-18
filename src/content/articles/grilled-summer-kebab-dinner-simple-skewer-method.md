@@ -1,7 +1,7 @@
 ---
 title: "Grilled Summer Kebab Dinner: Simple Skewer Method"
 meta: "Learn my technique for a Grilled Summer Kebab Dinner with even cooking, no sticking, and vibrant flavor. Perfect for weeknights."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/ace8ff53-e3b2-4ecc-a03e-b6d5d6be4f69/0_0.png"
 pubDate: "2026-07-29T22:22:42.000Z"
