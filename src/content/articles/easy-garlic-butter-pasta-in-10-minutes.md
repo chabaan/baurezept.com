@@ -1,7 +1,7 @@
 ---
 title: "Easy Garlic Butter Pasta in 10 Minutes"
 meta: "Learn how to make easy garlic butter pasta in 10 minutes. My technique for silky, non-greasy sauce with perfect garlic flavor every time."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/1cb0083d-2842-4abf-9af5-e761315d18dd/0_0.png"
 pubDate: "2026-07-08T08:30:37.000Z"
