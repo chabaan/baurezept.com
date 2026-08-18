@@ -1,7 +1,7 @@
 ---
 title: "Summer Veggie Pasta Primavera"
 meta: "Make the best Summer Veggie Pasta Primavera with this easy recipe. Fresh vegetables, al dente pasta, and a light lemon herb sauce."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/6d304e86-6d73-4414-8326-0ce357a96cbc/0_0.png"
 pubDate: "2026-07-06T19:41:58.000Z"
