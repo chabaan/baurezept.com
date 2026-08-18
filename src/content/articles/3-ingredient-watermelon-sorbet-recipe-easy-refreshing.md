@@ -1,7 +1,7 @@
 ---
 title: "3-Ingredient Watermelon Sorbet Recipe – Easy & Refreshing"
 meta: "Learn how to make 3-ingredient watermelon sorbet with a secret touch of lime zest. Perfectly smooth, no ice cream maker needed."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/a61cb6a5-d20b-4339-ab27-5f654a9d4533/0_0.png"
 pubDate: "2026-08-13T13:49:40.000Z"
