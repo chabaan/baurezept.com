@@ -1,7 +1,7 @@
 ---
 title: "Italian Lemon Ricotta Cake: Tender, Moist, and Bright"
 meta: "Learn the technique for an authentic Italian Lemon Ricotta Cake that stays moist for days. My precise ratio and method guarantee a tender crumb every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/7e7c9a52-559a-4dfd-8d49-a5c4157d18b1/0_0.png"
 pubDate: "2026-07-24T12:45:30.000Z"
