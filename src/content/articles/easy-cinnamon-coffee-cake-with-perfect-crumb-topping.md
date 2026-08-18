@@ -1,7 +1,7 @@
 ---
 title: "Easy Cinnamon Coffee Cake with Perfect Crumb Topping"
 meta: "Learn how to make easy cinnamon coffee cake with a tender crumb and buttery streusel. Get the simple ratio for the best topping every time."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/77db2ef3-5f77-4abb-bd21-64a4151e0ea5/0_0.png"
 pubDate: "2026-07-08T07:53:18.000Z"
