@@ -1,7 +1,7 @@
 ---
 title: "How to Make a Refreshing Watermelon Mojito at Home"
 meta: "Learn my technique for a bright watermelon mojito with the perfect mint-lime balance. Tips on muddling, ratios, and avoiding a watery drink."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/614a507c-c2c9-4115-a4b3-2907ee361651/0_1.png"
 pubDate: "2026-07-03T07:47:55.000Z"
