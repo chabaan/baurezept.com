@@ -1,7 +1,7 @@
 ---
 title: "5-Minute Blender Salsa: Fresh, Chunky, No-Cook Recipe"
 meta: "Make fresh 5-minute blender salsa with the perfect chunky texture. Expert tips on tomato ratio, vinegar balance, and why you should skip the food processor."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/e88850cb-2960-4ad8-ab38-ea01ae3a66c5/0_1.png"
 pubDate: "2026-07-04T21:55:04.000Z"
