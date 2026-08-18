@@ -1,7 +1,7 @@
 ---
 title: "Easy Peach Crumble for Juicy Summer Dessert"
 meta: "This easy peach crumble recipe uses a simple ratio for a crisp, buttery topping over juicy peaches. Perfect for summer baking with fresh or frozen fruit."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/a32edb79-02a9-4362-9ce1-bf805b6d65b0/0_1.png"
 pubDate: "2026-06-27T08:50:45.000Z"
