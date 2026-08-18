@@ -1,7 +1,7 @@
 ---
 title: "Healthy Summer Veggie Platter with Herbed Yogurt Dip"
 meta: "Build a healthy summer veggie platter that actually satisfies. Get my ratio for crunch to creamy dip plus a no-wilt herb yogurt technique."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/3b6c87ea-765f-4fe7-9c56-902a6d826c9e/0_0.png"
 pubDate: "2026-07-09T09:35:50.000Z"
