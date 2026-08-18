@@ -1,7 +1,7 @@
 ---
 title: "Perfect Grilled Shrimp Skewers Dinner Recipe"
 meta: "Learn my method for juicy grilled shrimp skewers dinner with a simple marinade. Exact timing and heat tips for tender, not rubbery, shrimp every time."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/4c0a2150-8f57-4e3b-9606-27e24213a52e/0_0.png"
 pubDate: "2026-07-21T21:00:22.000Z"
