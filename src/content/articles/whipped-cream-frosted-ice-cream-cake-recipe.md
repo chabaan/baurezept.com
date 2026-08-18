@@ -1,7 +1,7 @@
 ---
 title: "Whipped Cream Frosted Ice Cream Cake Recipe"
 meta: "Learn how to make a whipped cream frosted ice cream cake at home. My stable whipped cream technique and no-bake assembly create a perfect frozen dessert."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/5436272f-7ed9-42f3-84ff-42f19f04cd00/0_0.png"
 pubDate: "2026-07-19T09:40:34.000Z"
