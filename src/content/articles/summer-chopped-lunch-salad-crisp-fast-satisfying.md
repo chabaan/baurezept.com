@@ -1,7 +1,7 @@
 ---
 title: "Summer Chopped Lunch Salad: Crisp, Fast & Satisfying"
 meta: "Make the best Summer Chopped Lunch Salad with crisp veggies, protein, and a tangy vinaigrette. A quick, no-cook meal for hot days."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/1733752a-c7c7-422f-a5dc-c95ccb2ad60a/0_0.png"
 pubDate: "2026-07-14T21:04:15.000Z"
