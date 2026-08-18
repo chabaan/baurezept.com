@@ -3,11 +3,14 @@ title: "Classic Sour Cream Coffee Cake: Tender, Tangy Streusel Recipe"
 meta: "Learn how to make a classic sour cream coffee cake with a tender crumb, tangy sour cream, and a crunchy cinnamon streusel. Perfect for breakfast or brunch."
 category: "Desserts & Drinks"
 author: "Emily Carter"
-image: "https://cdn.midjourney.com/51111191-1ae1-4b08-ba96-5b2809be9e3f/0_1.png"
-pubDate: "2026-08-05T08:02:02.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/classic-sour-cream-coffee-cake-tender-ta.webp"
+pubDate: "2026-08-05T16:02:02Z"
+recipe: "{\"title\": \"Classic Sour Cream Coffee Cake\", \"ingredients\": [\"For the streusel: 1/2 cup packed light brown sugar (1/2 cup granulated sugar, 1 1/2 teaspoons ground cinnamon, 1/4 teaspoon salt, 1 cup all-purpose flour, 1/2 cup unsalted butter, melted, 1 cup chopped walnuts or pecans. For the cake: 1 1/2 cups granulated sugar, 1/2 cup unsalted butter, softened, 1 cup sour cream, at room temperature, 2 large eggs, at room temperature, 1 teaspoon vanilla extract, 2 cups all-purpose flour, 1 teaspoon baking powder, 1/2 teaspoon baking soda, 1/2 teaspoon salt, 1/2 teaspoon ground cinnamon.)\"], \"instructions\": [\"Preheat oven to 350°F (175°C). Grease and flour a 9-inch tube pan or 10-cup Bundt pan. 2. Make the streusel: In a medium bowl, whisk together brown sugar, granulated sugar, cinnamon, and salt. Pour in melted butter and stir until combined. Add flour and stir until crumbly. Stir in nuts. Set aside. 3. Make the cake: In a large bowl, cream together butter and sugar with an electric mixer on medium speed until light and fluffy, about 3 minutes. 4. Add sour cream, eggs one at a time, and vanilla, beating well after each addition. Scrape down the bowl as needed. 5. In a separate bowl, whisk together flour, baking powder, baking soda, salt, and cinnamon. 6. Gradually add the dry ingredients to the wet mixture, mixing on low just until combined. Do not overmix. 7. Spread half of the batter evenly into the prepared pan. Sprinkle with half of the streusel mixture. Gently spread the remaining batter on top. Sprinkle the remaining streusel over the batter. 8. Bake for 40-45 minutes, until a toothpick inserted into the center comes out clean or with a few moist crumbs. The top should be golden and the edges pulling away from the pan. 9. Let the cake cool in the pan on a wire rack for 15 minutes. Then invert onto the rack to cool completely before slicing.\"], \"equipment\": [\"9-inch tube pan or Bundt pan\", \"electric mixer\", \"mixing bowls\", \"whisk\", \"spatula\", \"cooling rack\"], \"servings\": \"12\", \"prep_time\": \"20\", \"cook_time\": \"45\", \"total_time\": \"65\", \"calories\": \"380\"}"
 ---
 
 <p>The moment you slice into a classic sour cream coffee cake, you'll see it: a thick ribbon of cinnamon-walnut streusel running through the center, with another crunchy layer on top. The crumb is tender, almost velvety, with a subtle tang from the sour cream that balances the sweet streusel. This is the coffee cake that disappears fast at brunch, and it's surprisingly simple to make at home.</p>
+<figure><img src="https://cdn.midjourney.com/51111191-1ae1-4b08-ba96-5b2809be9e3f/0_2.png" alt="Mixing the streusel topping for sour cream coffee cake in a bowl, showing the crumbly texture." /></figure>
+
 
 <p>The trick to a truly moist, not-dry coffee cake is in the ratio of fat to flour. I keep the ratio at 1 part butter to 2 parts flour by volume, plus a full cup of sour cream. That sour cream does double duty: it adds moisture and a gentle acidity that tenderizes the gluten, giving the cake a fine, even crumb. No buttermilk needed here—sour cream is the star.</p>
 
@@ -61,3 +64,33 @@ pubDate: "2026-08-05T08:02:02.000Z"
 <h2>Final Takeaway</h2>
 
 <p>A classic sour cream coffee cake is more than the sum of its parts. The tangy crumb, the sweet, crunchy streusel, the simple technique—it all adds up to a cake that feels special without being fussy. Whether you're making it for a weekend brunch or a weekday breakfast, this recipe delivers every time. Keep the streusel chilled, don't overmix the batter, and you'll have a coffee cake that's tender, moist, and full of cinnamon flavor.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Can I use Greek yogurt instead of sour cream?</h3>
+<p>Yes, you can substitute full-fat plain Greek yogurt for sour cream in equal measure (1:1). The cake will be slightly less tangy but still tender. Avoid nonfat yogurt, which can make the cake dense.</p>
+<h3>Why did my coffee cake sink in the middle?</h3>
+<p>A sunken center usually means the cake was underbaked or the oven temperature was too low. Always check doneness with a toothpick inserted into the thickest part. Also, ensure your baking powder and baking soda are fresh (test by adding a pinch to hot water—it should fizz).</p>
+<h3>Can I make this coffee cake ahead of time?</h3>
+<p>Absolutely. This cake actually tastes better the next day as the flavors meld. Bake it up to 2 days ahead, store tightly covered at room temperature, and serve at room temperature or gently warmed.</p>
+<h3>How do I keep the streusel from sinking into the batter?</h3>
+<p>The key is to chill the streusel for 10-15 minutes before layering it into the cake. Also, spread the batter gently and don't press the streusel down. Using a tube pan (not a loaf pan) helps the layers stay distinct.</p>
+
+
+<!--WPRM Recipe 1558-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Classic Sour Cream Coffee Cake</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/classic-sour-cream-coffee-cake-tender-ta-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		A moist, tender coffee cake with a tangy sour cream base and a crunchy cinnamon-walnut streusel layer in the middle and on top.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>9-inch tube pan or Bundt pan</li><li>electric mixer</li><li>mixing bowls</li><li>whisk</li><li>spatula</li><li>cooling rack</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>For the streusel: 1/2 cup packed light brown sugar (1/2 cup granulated sugar, 1 1/2 teaspoons ground cinnamon, 1/4 teaspoon salt, 1 cup all-purpose flour, 1/2 cup unsalted butter, melted, 1 cup chopped walnuts or pecans. For the cake: 1 1/2 cups granulated sugar, 1/2 cup unsalted butter, softened, 1 cup sour cream, at room temperature, 2 large eggs, at room temperature, 1 teaspoon vanilla extract, 2 cups all-purpose flour, 1 teaspoon baking powder, 1/2 teaspoon baking soda, 1/2 teaspoon salt, 1/2 teaspoon ground cinnamon.)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Preheat oven to 350°F (175°C). Grease and flour a 9-inch tube pan or 10-cup Bundt pan. 2. Make the streusel: In a medium bowl, whisk together brown sugar, granulated sugar, cinnamon, and salt. Pour in melted butter and stir until combined. Add flour and stir until crumbly. Stir in nuts. Set aside. 3. Make the cake: In a large bowl, cream together butter and sugar with an electric mixer on medium speed until light and fluffy, about 3 minutes. 4. Add sour cream, eggs one at a time, and vanilla, beating well after each addition. Scrape down the bowl as needed. 5. In a separate bowl, whisk together flour, baking powder, baking soda, salt, and cinnamon. 6. Gradually add the dry ingredients to the wet mixture, mixing on low just until combined. Do not overmix. 7. Spread half of the batter evenly into the prepared pan. Sprinkle with half of the streusel mixture. Gently spread the remaining batter on top. Sprinkle the remaining streusel over the batter. 8. Bake for 40-45 minutes, until a toothpick inserted into the center comes out clean or with a few moist crumbs. The top should be golden and the edges pulling away from the pan. 9. Let the cake cool in the pan on a wire rack for 15 minutes. Then invert onto the rack to cool completely before slicing.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>Storage: Store covered at room temperature for up to 3 days, or refrigerate for up to 5 days. To reheat, microwave a slice for 10-15 seconds. Freeze the whole cake (cooled, wrapped tightly) for up to 2 months. For a lighter streusel, chill the streusel mixture for 10 minutes before layering. Common allergens: dairy, eggs, wheat, tree nuts. For a nut-free version, omit the walnuts and add 1/2 cup toasted oats or additional streusel. For a dairy-free version, use dairy-free sour cream and butter substitutes. Consult a qualified professional for specific dietary needs.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Breakfast, Dessert</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
