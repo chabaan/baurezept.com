@@ -1,7 +1,7 @@
 ---
 title: "Summer Party Platter That Actually Stays Fresh"
 meta: "Build a summer party platter that stays crisp and colorful. My cold-platter method with a 2:1 ratio of savory to sweet, plus make-ahead tips."
-category: "Appetizers, Snacks &amp; Sides"
+category: "Appetizers, Snacks & Sides"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/0f58211d-d989-4f21-9593-2bbbb321c039/0_1.png"
 pubDate: "2026-07-09T22:17:58.000Z"
