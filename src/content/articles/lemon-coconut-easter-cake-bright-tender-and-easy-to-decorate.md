@@ -1,7 +1,7 @@
 ---
 title: "Lemon Coconut Easter Cake: Bright, Tender, and Easy to Decorate"
 meta: "Make a stunning Lemon Coconut Easter Cake with a tender crumb and creamy frosting. Get the exact ratios, technique tips, and a no-fuss decorating method."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/de608416-5efc-4c38-a0ff-8aeac3394268/0_0.png"
 pubDate: "2026-08-07T07:27:44.000Z"
