@@ -2,8 +2,7 @@ name: Sync Articles from Google Sheet
 
 on:
   schedule:
-    # Disabled: WordPress is now the content source, not the sheet
-    # - cron: '0 * * * *'
+    - cron: '0 * * * *'  # every hour, at minute 0
   workflow_dispatch:  # allows manual trigger from GitHub Actions tab
 
 permissions:
