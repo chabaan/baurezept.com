@@ -1,7 +1,7 @@
 ---
 title: "Chocolate Chunk Beach Cookies: Soft, Salty & Easy to Make"
 meta: "Make Chocolate Chunk Beach Cookies with a crisp edge and soft center. My method uses a specific salt-to-butter ratio for that beachside flavor."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/d497bf58-a514-4e42-82fd-65ff5d80781e/0_0.png"
 pubDate: "2026-06-26T13:30:00.000Z"
