@@ -1,7 +1,7 @@
 ---
 title: "Lemon Pepper Chicken Pasta: A Bright, Creamy Weeknight Dinner"
 meta: "Learn how to make lemon pepper chicken pasta with a creamy sauce that clings to every noodle. A quick, reliable weeknight dinner with clear steps and technique."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/6fbd7440-1b91-45bc-af98-86bf7a5ad4d0/0_0.png"
 pubDate: "2026-07-14T08:11:36.000Z"
