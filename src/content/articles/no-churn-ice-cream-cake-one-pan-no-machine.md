@@ -1,7 +1,7 @@
 ---
 title: "No-Churn Ice Cream Cake: One Pan, No Machine"
 meta: "Make a no-churn ice cream cake without an ice cream maker. This single-layer method uses a stable whipped base for a creamy, sliceable dessert."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/153b2733-4f90-4192-bcdb-f2190c9790bd/0_1.png"
 pubDate: "2026-06-20T13:36:02.000Z"
