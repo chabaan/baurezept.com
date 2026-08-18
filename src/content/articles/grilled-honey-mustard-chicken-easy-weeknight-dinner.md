@@ -1,7 +1,7 @@
 ---
 title: "Grilled Honey Mustard Chicken – Easy Weeknight Dinner"
 meta: "Learn how to make juicy Grilled Honey Mustard Chicken with a perfect balance of sweet and tangy. Easy weeknight dinner with clear steps and tips."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/37e1100f-cb69-489a-b872-0516da1c47d1/0_0.png"
 pubDate: "2026-07-12T21:30:21.000Z"
