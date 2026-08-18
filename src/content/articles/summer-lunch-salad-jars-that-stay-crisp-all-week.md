@@ -1,7 +1,7 @@
 ---
 title: "Summer Lunch Salad Jars That Stay Crisp All Week"
 meta: "Build perfect summer lunch salad jars with a layering trick that keeps greens crisp. No soggy sad lunch—just fresh, portable salads."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/7e77bdd5-ad86-4283-9075-177be6268396/0_0.png"
 pubDate: "2026-07-22T21:18:02.000Z"
