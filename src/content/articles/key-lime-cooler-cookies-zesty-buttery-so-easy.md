@@ -3,11 +3,14 @@ title: "Key Lime Cooler Cookies: Zesty, Buttery & So Easy"
 meta: "Learn how to make Key Lime Cooler Cookies with a perfect crumbly texture and tangy glaze. My precise ratio ensures they hold their shape every time."
 category: "Desserts & Drinks"
 author: "Ashley Brooks"
-image: "https://cdn.midjourney.com/ef6d35d6-381f-4982-a515-15b48466accb/0_0.png"
-pubDate: "2026-06-21T21:02:34.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/key-lime-cooler-cookies-zesty-buttery-so-2.webp"
+pubDate: "2026-06-22T05:02:34Z"
+recipe: "{\"title\": \"Key Lime Cooler Cookies\", \"ingredients\": [\"1 cup unsalted butter (softened to room temperature)\", \"1/2 cup powdered sugar\", \"1 tablespoon key lime zest (from about 4-5 key limes)\", \"2 tablespoons fresh key lime juice\", \"1 teaspoon vanilla extract\", \"2 cups all-purpose flour\", \"1/4 teaspoon salt\", \"For the Glaze:\", \"1 cup powdered sugar\", \"2 tablespoons fresh key lime juice\", \"1 teaspoon key lime zest (optional, for garnish)\", \"1-2 tablespoons milk or water (as needed)\"], \"instructions\": [\"Preheat your oven to 350°F (175°C). Line two baking sheets with parchment paper.\", \"In a large bowl, beat the softened butter with an electric mixer on medium speed until creamy, about 1 minute.\", \"Add the 1/2 cup powdered sugar and beat until light and fluffy, about 2 minutes. Scrape down the sides.\", \"Mix in the key lime zest, 2 tablespoons key lime juice, and vanilla extract until combined.\", \"In a separate bowl, whisk together the flour and salt. Gradually add to the butter mixture, mixing on low just until a soft dough forms. Do not overmix.\", \"Scoop rounded tablespoons of dough (about 1.5 inches in diameter) and roll into balls. Place them 2 inches apart on the prepared baking sheets.\", \"Bake for 10-12 minutes, until the edges are just set and the bottoms are lightly golden. The centers will look slightly pale and soft. Cool on the baking sheet for 5 minutes, then transfer to a cooling rack.\", \"While cookies cool, make the glaze: In a small bowl, whisk together 1 cup powdered sugar and 2 tablespoons key lime juice until smooth. If too thick, add milk 1 teaspoon at a time. If too thin, add more powdered sugar.\", \"Once cookies are completely cool, drizzle or dip the tops into the glaze. Sprinkle with extra key lime zest if desired. Let the glaze set for about 30 minutes before serving.\"], \"equipment\": [\"mixing bowls\", \"electric mixer\", \"baking sheet\", \"parchment paper\", \"cooling rack\", \"zester\", \"citrus juicer\", \"small whisk\"], \"servings\": \"24\", \"prep_time\": \"20\", \"cook_time\": \"12\", \"total_time\": \"32\", \"calories\": \"145\"}"
 ---
 
 <p>The moment you zest a key lime, that bright, floral scent fills the kitchen. It's the kind of aroma that promises something special. These Key Lime Cooler Cookies deliver on that promise: a buttery, crumbly shortbread base with a tangy citrus kick, finished with a glossy powdered sugar glaze. They're not overly sweet, just perfectly balanced.</p>
+<figure><img src="https://cdn.midjourney.com/ef6d35d6-381f-4982-a515-15b48466accb/0_2.png" alt="Mixing dough for key lime cooler cookies in a glass bowl with a wooden spoon" /></figure>
+
 
 <p>I've worked out the exact ratio of butter to flour so these cookies hold a neat round shape without spreading into flat discs. The key is using room-temperature butter—not melted, not cold—and mixing just until the dough comes together. Overworking the dough develops gluten, which makes cookies tough instead of tender.</p>
 
@@ -40,3 +43,31 @@ pubDate: "2026-06-21T21:02:34.000Z"
 
 <h2>Takeaway</h2>
 <p>These Key Lime Cooler Cookies are the kind of treat that disappears fast. The combination of buttery shortbread and tangy citrus glaze hits that sweet-sour spot that keeps you reaching for another. With the right ratio and a few technique tips, you'll get consistent, beautiful cookies every time. No fuss, just bright flavor and a perfect crumb.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Can I use regular limes instead of key limes?</h3>
+<p>Yes, you can substitute regular lime juice and zest. The flavor will be slightly less floral and more tart, but still delicious. Use the same measurements.</p>
+<h3>Why did my cookies spread too much?</h3>
+<p>If your cookies spread excessively, the butter may have been too soft or the dough was overmixed. Chill the dough for 15 minutes before baking next time, and measure flour accurately by spooning it into the cup and leveling it off.</p>
+<h3>How do I get a smooth glaze?</h3>
+<p>Sift the powdered sugar before whisking to remove lumps. Add the lime juice gradually, and if the glaze is too thick, thin with milk one drop at a time. Stir until completely smooth.</p>
+
+
+<!--WPRM Recipe 70-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Key Lime Cooler Cookies</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/key-lime-cooler-cookies-zesty-buttery-so-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		These buttery shortbread cookies are infused with fresh key lime zest and juice, then dusted with a tangy powdered sugar glaze. They're crisp, tender, and melt in your mouth.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>mixing bowls</li><li>electric mixer</li><li>baking sheet</li><li>parchment paper</li><li>cooling rack</li><li>zester</li><li>citrus juicer</li><li>small whisk</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>1 cup unsalted butter (softened to room temperature)</li><li>1/2 cup powdered sugar</li><li>1 tablespoon key lime zest (from about 4-5 key limes)</li><li>2 tablespoons fresh key lime juice</li><li>1 teaspoon vanilla extract</li><li>2 cups all-purpose flour</li><li>1/4 teaspoon salt</li><li>For the Glaze:</li><li>1 cup powdered sugar</li><li>2 tablespoons fresh key lime juice</li><li>1 teaspoon key lime zest (optional, for garnish)</li><li>1-2 tablespoons milk or water (as needed)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Preheat your oven to 350°F (175°C). Line two baking sheets with parchment paper.</li><li>In a large bowl, beat the softened butter with an electric mixer on medium speed until creamy, about 1 minute.</li><li>Add the 1/2 cup powdered sugar and beat until light and fluffy, about 2 minutes. Scrape down the sides.</li><li>Mix in the key lime zest, 2 tablespoons key lime juice, and vanilla extract until combined.</li><li>In a separate bowl, whisk together the flour and salt. Gradually add to the butter mixture, mixing on low just until a soft dough forms. Do not overmix.</li><li>Scoop rounded tablespoons of dough (about 1.5 inches in diameter) and roll into balls. Place them 2 inches apart on the prepared baking sheets.</li><li>Bake for 10-12 minutes, until the edges are just set and the bottoms are lightly golden. The centers will look slightly pale and soft. Cool on the baking sheet for 5 minutes, then transfer to a cooling rack.</li><li>While cookies cool, make the glaze: In a small bowl, whisk together 1 cup powdered sugar and 2 tablespoons key lime juice until smooth. If too thick, add milk 1 teaspoon at a time. If too thin, add more powdered sugar.</li><li>Once cookies are completely cool, drizzle or dip the tops into the glaze. Sprinkle with extra key lime zest if desired. Let the glaze set for about 30 minutes before serving.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>Storage: Store in an airtight container at room temperature for up to 5 days. For longer storage, freeze unglazed cookies for up to 3 months; glaze after thawing. Key lime juice can be substituted with regular lime juice, but the flavor will be less floral. This recipe contains dairy (butter) and gluten (flour). For a dairy-free version, use plant-based butter; texture may vary slightly. For egg-free, no substitution needed as this recipe has no eggs. Always handle hot baking sheets with care.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Dessert</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
