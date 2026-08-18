@@ -3,11 +3,14 @@ title: "Classic Spaghetti Aglio e Olio: Perfect Every Time"
 meta: "Learn the technique for classic spaghetti aglio e olio with a golden ratio of oil to pasta and a key tip for silky, non-greasy sauce."
 category: "Dinners & Main Dishes"
 author: "Emily Carter"
-image: "https://cdn.midjourney.com/d30ac1a3-b756-4e0c-972e-9f562b7f355c/0_1.png"
-pubDate: "2026-07-29T09:55:25.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/classic-spaghetti-aglio-e-olio-perfect-e.webp"
+pubDate: "2026-07-29T17:55:25Z"
+recipe: "{\"title\": \"Classic Spaghetti Aglio e Olio\", \"ingredients\": [\"1 pound spaghetti\", \"6 tablespoons extra-virgin olive oil\", \"8 cloves garlic (thinly sliced)\", \"1/2 teaspoon red pepper flakes (or to taste)\", \"1/2 cup reserved pasta water\", \"1/4 cup fresh parsley (finely chopped)\", \"Salt for pasta water\", \"Freshly grated Parmesan (optional, for serving)\"], \"instructions\": [\"Bring a large pot of well-salted water to a rolling boil. Use 1 tablespoon salt per 4 quarts water.\", \"Add spaghetti and cook until 1 minute shy of al dente (about 1 minute less than package directions). Stir occasionally.\", \"While pasta cooks, heat olive oil in a 12-inch skillet over medium-low heat. Add sliced garlic and red pepper flakes. Cook slowly, stirring often, until garlic is fragrant and just golden—about 3-4 minutes. Do not let it brown or burn. If it darkens too fast, remove pan from heat briefly.\", \"When pasta is done, reserve 1 cup of pasta water, then drain spaghetti.\", \"Add drained spaghetti to the skillet with the garlic oil. Increase heat to medium. Toss with tongs for 1 minute, adding pasta water a few tablespoons at a time, until the sauce emulsifies and coats each strand. You'll likely use about 1/2 cup total. The pasta should look glossy, not greasy.\", \"Remove from heat. Toss in parsley. Taste and add salt if needed (the pasta water usually provides enough). Serve immediately with Parmesan on the side.\"], \"equipment\": [\"Large pot\", \"colander\", \"12-inch skillet\", \"chef's knife\", \"cutting board\", \"tongs\", \"measuring spoons\"], \"servings\": \"4\", \"prep_time\": \"5\", \"cook_time\": \"15\", \"total_time\": \"20\", \"calories\": \"450\"}"
 ---
 
 <p>The first time you get it right, you'll know. The garlic turns pale gold, not brown. The oil slicks each strand of spaghetti without pooling at the bottom of the bowl. And the whole thing comes together in the time it takes to boil water.</p>
+<figure><img src="https://cdn.midjourney.com/d30ac1a3-b756-4e0c-972e-9f562b7f355c/0_3.png" alt="Thinly sliced garlic toasting in olive oil in a skillet" /></figure>
+
 
 <p>Spaghetti aglio e olio is deceptively simple. Just garlic, olive oil, pasta, and a little heat. But the technique matters more than the ingredient list suggests. I'm going to walk you through the method that gives you a silky, emulsified sauce every time—no cream, no butter, no cheese required (though Parmesan is welcome).</p>
 
@@ -44,3 +47,31 @@ pubDate: "2026-07-29T09:55:25.000Z"
 <p>This pasta is best eaten right away. If you have leftovers, store them in an airtight container in the fridge for up to 2 days. To reheat, add the pasta to a skillet with a splash of water and toss over medium heat until the sauce comes back together. Microwaving will dry it out.</p>
 
 <p><strong>Takeaway:</strong> Spaghetti aglio e olio is a lesson in restraint. Use good oil, toast the garlic gently, and emulsify with pasta water. Nail those three things, and you'll have a perfect bowl of pasta from a handful of pantry staples.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Why is my aglio e olio greasy?</h3>
+<p>The oil and water haven't emulsified. The fix is to toss the pasta with the oil over medium heat, adding pasta water a little at a time, until the sauce coats the noodles and looks creamy, not oily.</p>
+<h3>Can I use pre-minced garlic?</h3>
+<p>Freshly sliced garlic is best. Pre-minced garlic is often dry and can burn faster, leading to a bitter taste. Thin, even slices toast more gently and evenly.</p>
+<h3>How do I keep garlic from burning?</h3>
+<p>Use medium-low heat and watch closely. The garlic should sizzle gently and turn pale gold. If it browns quickly, your heat is too high. Remove the pan from the burner if needed.</p>
+
+
+<!--WPRM Recipe 1436-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Classic Spaghetti Aglio e Olio</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/classic-spaghetti-aglio-e-olio-perfect-e-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		A simple but perfect pasta with garlic, olive oil, and a touch of heat. The key is slow-toasting the garlic and using the right oil-to-pasta ratio.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>large pot</li><li>colander</li><li>12-inch skillet</li><li>chef's knife</li><li>cutting board</li><li>tongs</li><li>measuring spoons</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>1 pound spaghetti</li><li>6 tablespoons extra-virgin olive oil</li><li>8 cloves garlic (thinly sliced)</li><li>1/2 teaspoon red pepper flakes (or to taste)</li><li>1/2 cup reserved pasta water</li><li>1/4 cup fresh parsley (finely chopped)</li><li>Salt for pasta water</li><li>Freshly grated Parmesan (optional, for serving)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Bring a large pot of well-salted water to a rolling boil. Use 1 tablespoon salt per 4 quarts water.</li><li>Add spaghetti and cook until 1 minute shy of al dente (about 1 minute less than package directions). Stir occasionally.</li><li>While pasta cooks, heat olive oil in a 12-inch skillet over medium-low heat. Add sliced garlic and red pepper flakes. Cook slowly, stirring often, until garlic is fragrant and just golden—about 3-4 minutes. Do not let it brown or burn. If it darkens too fast, remove pan from heat briefly.</li><li>When pasta is done, reserve 1 cup of pasta water, then drain spaghetti.</li><li>Add drained spaghetti to the skillet with the garlic oil. Increase heat to medium. Toss with tongs for 1 minute, adding pasta water a few tablespoons at a time, until the sauce emulsifies and coats each strand. You'll likely use about 1/2 cup total. The pasta should look glossy, not greasy.</li><li>Remove from heat. Toss in parsley. Taste and add salt if needed (the pasta water usually provides enough). Serve immediately with Parmesan on the side.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>Storage: Best eaten fresh. Leftovers can be refrigerated in an airtight container for up to 2 days. Reheat in a skillet with a splash of water to revive the sauce. For a dairy-free version, omit Parmesan. This recipe is naturally vegetarian and gluten-free if using gluten-free pasta. Always handle hot oil and pasta water carefully to avoid burns.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Main Course</div><div class="wprm-fallback-recipe-meta-cuisine">Italian</div>	</div>
+</div>
+<!--End WPRM Recipe-->
