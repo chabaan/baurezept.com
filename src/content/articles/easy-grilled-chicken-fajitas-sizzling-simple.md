@@ -1,7 +1,7 @@
 ---
 title: "Easy Grilled Chicken Fajitas: Sizzling & Simple"
 meta: "Learn how to make easy grilled chicken fajitas with a tangy marinade, perfect char, and tender strips. A reliable weeknight dinner with clear steps."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/e72dcf8d-5c0c-4d7e-bdd8-558166c5695c/0_1.png"
 pubDate: "2026-08-01T08:34:44.000Z"
