@@ -1,7 +1,7 @@
 ---
 title: "Homemade Peach Iced Tea: Bright, Sweet, and Never Bitter"
 meta: "Learn how to make homemade peach iced tea with ripe peaches and black tea. This easy recipe gives you a bright, sweet drink without bitterness."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/ce47fbe9-b86b-4f69-8f53-062422c8c08f/0_0.png"
 pubDate: "2026-07-23T12:55:19.000Z"
