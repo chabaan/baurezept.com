@@ -1,7 +1,7 @@
 ---
 title: "Watermelon Ice Cream (No Churn, 4 Ingredients)"
 meta: "Make creamy watermelon ice cream at home with just 4 ingredients and no ice cream maker. This easy no-churn recipe is perfectly sweet and refreshing."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/ceb3712e-641f-405b-aed3-038ec2bcc3f6/0_1.png"
 pubDate: "2026-07-17T12:06:05.000Z"
