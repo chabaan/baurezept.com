@@ -1,7 +1,7 @@
 ---
 title: "No-Bake Summer Berry Cups: Creamy, Chilled & Easy"
 meta: "Make no-bake summer berry cups with a creamy filling and fresh berries. This easy dessert comes together in 15 minutes with simple ingredients."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/5a36c9bf-450c-460c-8893-6815a18d841d/0_0.png"
 pubDate: "2026-07-23T19:46:45.000Z"
