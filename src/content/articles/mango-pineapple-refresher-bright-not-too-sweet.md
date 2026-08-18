@@ -1,7 +1,7 @@
 ---
 title: "Mango Pineapple Refresher: Bright, Not Too Sweet"
 meta: "Make a mango pineapple refresher at home with a perfect balance of tart and sweet. Expert tips on ratios, texture, and avoiding common dilution mistakes."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/672de032-1d87-47cc-943b-430d703dfee4/0_0.png"
 pubDate: "2026-06-27T19:09:27.000Z"
