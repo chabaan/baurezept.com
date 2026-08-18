@@ -3,11 +3,14 @@ title: "Small-Batch 8x8 Coffee Cake: Perfectly Moist, Single Pan"
 meta: "Make a small-batch 8x8 coffee cake with a tender crumb and cinnamon streusel. Perfect for two, with precise ratios and foolproof technique."
 category: "Desserts & Drinks"
 author: "Ashley Brooks"
-image: "https://cdn.midjourney.com/7adb6c8c-b609-475f-8c83-57bfc8daa412/0_0.png"
-pubDate: "2026-07-29T09:42:48.000Z"
+image: "https://baurezept.com/wp-content/uploads/2026/06/small-batch-8x8-coffee-cake-perfectly-mo.webp"
+pubDate: "2026-07-29T17:42:48Z"
+recipe: "{\"title\": \"Small-Batch 8x8 Coffee Cake\", \"ingredients\": [\"1 1/2 cups all-purpose flour\", \"3/4 cup granulated sugar\", \"1/2 cup unsalted butter (softened)\", \"1 large egg\", \"1/2 cup buttermilk\", \"1 teaspoon vanilla extract\", \"1/2 teaspoon baking powder\", \"1/2 teaspoon baking soda\", \"1/4 teaspoon salt\", \"For the streusel: 1/3 cup packed light brown sugar\", \"1/4 cup all-purpose flour\", \"1/2 teaspoon ground cinnamon\", \"3 tablespoons cold unsalted butter (cubed)\", \"Optional: 1/2 cup chopped pecans or walnuts\"], \"instructions\": [\"Preheat oven to 350°F (175°C). Grease an 8x8 inch baking pan with butter or nonstick spray.\", \"Make the streusel: In a small bowl, combine brown sugar, 1/4 cup flour, and cinnamon. Cut in cold butter using a pastry blender or your fingertips until mixture resembles coarse crumbs. Stir in nuts if using. Set aside.\", \"In a medium bowl, whisk together 1 1/2 cups flour, baking powder, baking soda, and salt.\", \"In a large bowl, beat softened butter and granulated sugar with an electric mixer on medium speed until light and fluffy, about 2 minutes. Scrape down sides.\", \"Beat in egg and vanilla until well combined.\", \"With mixer on low speed, add the flour mixture in three additions, alternating with buttermilk, beginning and ending with flour. Mix just until combined—do not overmix.\", \"Spread batter evenly into prepared pan. Sprinkle streusel evenly over the top.\", \"Bake for 28-32 minutes, until a toothpick inserted in the center comes out clean or with a few moist crumbs. The top should be golden and the edges pulling away from the pan.\", \"Cool in the pan on a wire rack for 15 minutes, then serve warm or at room temperature.\"], \"equipment\": [\"8x8 inch baking pan\", \"mixing bowls\", \"whisk\", \"rubber spatula\", \"cooling rack\"], \"servings\": \"9\", \"prep_time\": \"15\", \"cook_time\": \"30\", \"total_time\": \"45\", \"calories\": \"310\"}"
 ---
 
 <p>The smell of cinnamon and butter drifting from the oven on a quiet Saturday morning—that's the promise of a small-batch 8x8 coffee cake. This recipe gives you a tender, moist crumb with a generous cinnamon streusel topping, all baked in a single 8-inch square pan. No leftovers to tempt you all week, just enough for a cozy breakfast or afternoon treat.</p>
+<figure><img src="https://cdn.midjourney.com/7adb6c8c-b609-475f-8c83-57bfc8daa412/0_2.png" alt="Hands mixing streusel topping with a pastry blender in a glass bowl." /></figure>
+
 
 <p>I developed this recipe around a specific ratio: 1.5 parts flour to 1 part sugar to 0.5 part butter by volume. That balance creates a cake that's sturdy enough to hold the streusel without sinking, yet light and tender. The buttermilk adds a gentle tang and activates the baking soda for a soft rise.</p>
 
@@ -48,3 +51,31 @@ pubDate: "2026-07-29T09:42:48.000Z"
 
 <h2>Takeaway</h2>
 <p>This small-batch 8x8 coffee cake delivers everything you want from a classic coffee cake: a tender, moist crumb, a generous cinnamon streusel, and just the right amount for two. The techniques here—proper creaming, cold butter for streusel, and careful mixing—are the same ones that work for any coffee cake recipe. Master them, and you'll have a reliable treat that fits perfectly into a quiet morning.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Can I use a different pan size?</h3>
+<p>Yes, you can bake this in a 9-inch round pan or a 9x5-inch loaf pan. Adjust baking time: round pan about 25-28 minutes, loaf pan about 35-40 minutes. Check doneness with a toothpick.</p>
+<h3>Can I make this gluten-free?</h3>
+<p>Substitute the all-purpose flour with a 1:1 gluten-free baking blend that contains xanthan gum. The texture will be slightly more tender, but it works well. No other changes needed.</p>
+<h3>Why is my coffee cake dry?</h3>
+<p>Dry coffee cake usually comes from overmixing the batter or overbaking. Mix just until the flour disappears, and start checking for doneness at 28 minutes. Also, be sure your butter and sugar are creamed properly to incorporate air.</p>
+
+
+<!--WPRM Recipe 1432-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Small-Batch 8x8 Coffee Cake</h2>
+	<img class="wprm-fallback-recipe-image" src="https://baurezept.com/wp-content/uploads/2026/06/small-batch-8x8-coffee-cake-perfectly-mo-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		A tender, moist coffee cake baked in an 8x8 pan, topped with a buttery cinnamon streusel. Perfect for a small gathering or weekend treat.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>8x8-inch baking pan</li><li>mixing bowls</li><li>whisk</li><li>rubber spatula</li><li>cooling rack</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>1 1/2 cups all-purpose flour</li><li>3/4 cup granulated sugar</li><li>1/2 cup unsalted butter (softened)</li><li>1 large egg</li><li>1/2 cup buttermilk</li><li>1 teaspoon vanilla extract</li><li>1/2 teaspoon baking powder</li><li>1/2 teaspoon baking soda</li><li>1/4 teaspoon salt</li><li>For the streusel: 1/3 cup packed light brown sugar</li><li>1/4 cup all-purpose flour</li><li>1/2 teaspoon ground cinnamon</li><li>3 tablespoons cold unsalted butter (cubed)</li><li>Optional: 1/2 cup chopped pecans or walnuts</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Preheat oven to 350°F (175°C). Grease an 8x8 inch baking pan with butter or nonstick spray.</li><li>Make the streusel: In a small bowl, combine brown sugar, 1/4 cup flour, and cinnamon. Cut in cold butter using a pastry blender or your fingertips until mixture resembles coarse crumbs. Stir in nuts if using. Set aside.</li><li>In a medium bowl, whisk together 1 1/2 cups flour, baking powder, baking soda, and salt.</li><li>In a large bowl, beat softened butter and granulated sugar with an electric mixer on medium speed until light and fluffy, about 2 minutes. Scrape down sides.</li><li>Beat in egg and vanilla until well combined.</li><li>With mixer on low speed, add the flour mixture in three additions, alternating with buttermilk, beginning and ending with flour. Mix just until combined—do not overmix.</li><li>Spread batter evenly into prepared pan. Sprinkle streusel evenly over the top.</li><li>Bake for 28-32 minutes, until a toothpick inserted in the center comes out clean or with a few moist crumbs. The top should be golden and the edges pulling away from the pan.</li><li>Cool in the pan on a wire rack for 15 minutes, then serve warm or at room temperature.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>Store leftovers tightly covered at room temperature for up to 2 days. To reheat, microwave a slice for 10-15 seconds. For a dairy-free version, use plant-based butter and buttermilk (1/2 cup non-dairy milk + 1/2 teaspoon lemon juice). This recipe contains gluten, dairy, and eggs. For nut-free, omit the pecans.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Dessert</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
