@@ -1,7 +1,7 @@
 ---
 title: "Espresso Swirl Coffee Cake: Tender Crumb & Bold Swirl"
 meta: "Learn how to make an espresso swirl coffee cake with a tender crumb and bold coffee ribbon. This recipe uses a hot espresso slurry for deep, balanced flavor."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/78981e1a-4a4e-4a67-92e7-9ac3740b685c/0_0.png"
 pubDate: "2026-07-05T21:12:43.000Z"
