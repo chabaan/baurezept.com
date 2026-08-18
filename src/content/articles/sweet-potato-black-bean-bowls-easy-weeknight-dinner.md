@@ -1,7 +1,7 @@
 ---
 title: "Sweet Potato Black Bean Bowls – Easy Weeknight Dinner"
 meta: "Learn how to make sweet potato black bean bowls with a tangy lime crema. A simple, balanced weeknight dinner with technique tips for perfect roasted sweet potat"
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/afc94c5f-9948-4429-85de-9c94b1459fe8/0_1.png"
 pubDate: "2026-06-24T13:16:51.000Z"
