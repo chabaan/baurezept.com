@@ -1,7 +1,7 @@
 ---
 title: "Lemon Berry Trifle: Bright Layers with a Tangy Secret"
 meta: "Learn my technique for a Lemon Berry Trifle with a tangy lemon curd shortcut and perfectly soaked cake layers. No soggy trifle here."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/442ef909-df3e-41c2-a0d1-1222d2eb3930/0_0.png"
 pubDate: "2026-08-05T22:38:29.000Z"
