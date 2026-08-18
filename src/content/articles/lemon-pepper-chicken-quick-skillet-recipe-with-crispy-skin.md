@@ -1,7 +1,7 @@
 ---
 title: "Lemon Pepper Chicken: Quick Skillet Recipe with Crispy Skin"
 meta: "Learn my technique for lemon pepper chicken with crispy skin and tangy pan sauce. A 30-minute skillet dinner that's genuinely helpful and easy to follow."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/318533a3-2316-43c3-b274-5482061b2172/0_1.png"
 pubDate: "2026-08-13T21:06:11.000Z"
