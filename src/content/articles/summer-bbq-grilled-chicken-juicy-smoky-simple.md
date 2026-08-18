@@ -1,7 +1,7 @@
 ---
 title: "Summer BBQ Grilled Chicken: Juicy, Smoky, Simple"
 meta: "Get perfectly juicy Summer BBQ Grilled Chicken every time. I share my foolproof brine, grill temp, and timing for that smoky, charred finish."
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/277ad5bc-9968-44d2-b039-3b9904c636e6/0_0.png"
 pubDate: "2026-07-19T13:38:18.000Z"
