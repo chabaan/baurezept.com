@@ -1,7 +1,7 @@
 ---
 title: "How to Make a Pastel Ombre Ice Cream Cake"
 meta: "Learn how to make a pastel ombre ice cream cake with a foolproof technique. This guide shares the exact ratio and method for a stunning, sliceable dessert."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/bbb755cc-bf4f-4c32-9d34-a78fedf6d435/0_0.png"
 pubDate: "2026-07-17T19:24:35.000Z"
