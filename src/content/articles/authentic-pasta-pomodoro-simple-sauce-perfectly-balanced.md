@@ -1,7 +1,7 @@
 ---
 title: "Authentic Pasta Pomodoro: Simple Sauce, Perfectly Balanced"
 meta: "Learn how to make authentic pasta pomodoro with ripe tomatoes, garlic, basil, and olive oil. A simple, balanced recipe with clear technique for a perfect weekni"
-category: "Dinners &amp; Main Dishes"
+category: "Dinners & Main Dishes"
 author: "Ryan Mitchell"
 image: "https://cdn.midjourney.com/29d664ac-1aaf-404e-8fa7-9d8a35962432/0_0.png"
 pubDate: "2026-07-02T22:03:22.000Z"
