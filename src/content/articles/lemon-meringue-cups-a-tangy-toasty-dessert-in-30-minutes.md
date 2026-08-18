@@ -1,7 +1,7 @@
 ---
 title: "Lemon Meringue Cups: A Tangy, Toasty Dessert in 30 Minutes"
 meta: "Learn how to make lemon meringue cups with a silky curd, toasted meringue, and a crisp shell. A quick, elegant dessert with a pro technique tip."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/737544e9-a72b-4c79-9ad8-84a69752da30/0_0.png"
 pubDate: "2026-07-14T19:05:33.000Z"
