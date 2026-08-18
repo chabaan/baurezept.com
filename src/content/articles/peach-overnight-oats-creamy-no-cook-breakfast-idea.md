@@ -1,7 +1,7 @@
 ---
 title: "Peach Overnight Oats: Creamy, No-Cook Breakfast Idea"
 meta: "Learn how to make peach overnight oats with a perfect creamy texture. This no-cook breakfast uses ripe peaches and a simple ratio for a grab-and-go meal."
-category: "Breakfast &amp; Brunch"
+category: "Breakfast & Brunch"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/8ebe960c-ec9b-4748-b744-4fec7bafe6f5/0_0.png"
 pubDate: "2026-08-10T08:33:51.000Z"
