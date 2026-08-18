@@ -1,7 +1,7 @@
 ---
 title: "Make Rainbow Fruit Punch That Actually Tastes Amazing"
 meta: "Learn how to make rainbow fruit punch with a secret technique for balanced sweetness and vibrant color. Easy recipe for parties and gatherings."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Emily Carter"
 image: "https://cdn.midjourney.com/a5fe9699-3086-4dae-bc93-96eeabfcc9c3/0_0.png"
 pubDate: "2026-07-01T08:54:20.000Z"
