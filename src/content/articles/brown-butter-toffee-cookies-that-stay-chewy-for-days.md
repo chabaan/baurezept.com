@@ -1,7 +1,7 @@
 ---
 title: "Brown Butter Toffee Cookies That Stay Chewy for Days"
 meta: "Learn how to make brown butter toffee cookies with a chewy center and crisp edges. Expert tips on browning butter and toffee ratios included."
-category: "Desserts &amp; Drinks"
+category: "Desserts & Drinks"
 author: "Ashley Brooks"
 image: "https://cdn.midjourney.com/63c0d52e-b2cc-456a-b856-a7773c434872/0_1.png"
 pubDate: "2026-07-11T14:07:47.000Z"
